@@ -1,0 +1,59 @@
+- name: "Academic"
+  links:
+    - name: "ORCID"
+      username: 0009-0002-4298-3271
+      url: "https://orcid.org/"
+      icon: "fab fa-orcid"
+      color: "#AFCE53"
+
+    - name: "ResearchGate"
+      username: Jean_Decian
+      url: "https://www.researchgate.net/profile/"
+      icon: "fab fa-researchgate"
+      color: "#61D2AE"
+
+- name: "Profesionnal"
+  links:
+    - name: "Credly by Pearson"
+      username: jeandecian
+      url: "https://www.credly.com/users/"
+      icon: "fas fa-certificate"
+      color: "#ED742E"
+
+    - name: "GitHub"
+      username: jeandecian
+      url: "https://github.com/"
+      icon: "fab fa-github"
+      color: "#171515"
+
+    - name: "LinkedIn"
+      username: jeandecian
+      url: "https://www.linkedin.com/in/"
+      icon: "fab fa-linkedin"
+      color: "#2D64BC"
+
+- name: "Skills"
+  links:
+    - name: "Codewars"
+      username: jeandecian
+      url: "https://www.codewars.com/users/"
+      icon: "fas fa-code"
+      color: "#B1361E"
+
+    - name: "HackerRank"
+      username: jeandecian
+      url: "https://www.hackerrank.com/profile/"
+      icon: "fab fa-hackerrank"
+      color: "#64C471"
+
+    - name: "LeetCode"
+      username: jeandecian
+      url: "https://leetcode.com/u/"
+      icon: "fas fa-code"
+      color: "#EBA440"
+
+    - name: "TryHackMe"
+      username: jeandecian
+      url: "https://tryhackme.com/p/"
+      icon: "fas fa-code"
+      color: "#B12A20"
