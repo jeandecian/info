@@ -6,7 +6,7 @@ permalink: /education/
 
 <div class="container" style="margin-top: 1em">
   <div class="row row-cols-1 row-cols-md-2 g-4">
-    {% for edu in site.data.education %}
+    {% for edu in site.data.education reversed %}
     <div class="col">
       <div class="card text-bg-light text-center h-100">
         <img
