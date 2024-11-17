@@ -1,5 +1,11 @@
 - name: "Academic"
   links:
+    - name: "Google Scholar"
+      username: e0iFMX4AAAAJ
+      url: "https://scholar.google.com/citations?user="
+      icon: "fas fa-graduation-cap"
+      color: "#507FE5"
+
     - name: "ORCID"
       username: 0009-0002-4298-3271
       url: "https://orcid.org/"
@@ -12,7 +18,7 @@
       icon: "fab fa-researchgate"
       color: "#61D2AE"
 
-- name: "Profesionnal"
+- name: "Certifications"
   links:
     - name: "Credly by Pearson"
       username: jeandecian
@@ -20,6 +26,8 @@
       icon: "fas fa-certificate"
       color: "#ED742E"
 
+- name: "Profesionnal"
+  links:
     - name: "GitHub"
       username: jeandecian
       url: "https://github.com/"
