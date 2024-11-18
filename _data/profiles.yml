@@ -1,67 +1,73 @@
-- name: "Academic"
+- name: Academic
   links:
-    - name: "Google Scholar"
+    - name: EAI
+      username: afad80d7-b710-462e-a8b1-04808e37e3f1
+      url: https://account.eai.eu/profiles/
+      icon: fas fa-book
+      color: "#19407B"
+
+    - name: Google Scholar
       username: e0iFMX4AAAAJ
-      url: "https://scholar.google.com/citations?user="
-      icon: "fas fa-graduation-cap"
+      url: https://scholar.google.com/citations?user=
+      icon: fas fa-graduation-cap
       color: "#507FE5"
 
-    - name: "ORCID"
+    - name: ORCID
       username: 0009-0002-4298-3271
-      url: "https://orcid.org/"
-      icon: "fab fa-orcid"
+      url: https://orcid.org/
+      icon: fab fa-orcid
       color: "#AFCE53"
 
-    - name: "ResearchGate"
+    - name: ResearchGate
       username: Jean_Decian
-      url: "https://www.researchgate.net/profile/"
-      icon: "fab fa-researchgate"
+      url: https://www.researchgate.net/profile/
+      icon: fab fa-researchgate
       color: "#61D2AE"
 
-- name: "Certifications"
+- name: Certifications
   links:
-    - name: "Credly by Pearson"
+    - name: Credly by Pearson
       username: jeandecian
-      url: "https://www.credly.com/users/"
-      icon: "fas fa-certificate"
+      url: https://www.credly.com/users/
+      icon: fas fa-certificate
       color: "#ED742E"
 
-- name: "Profesionnal"
+- name: Profesionnal
   links:
-    - name: "GitHub"
+    - name: GitHub
       username: jeandecian
-      url: "https://github.com/"
-      icon: "fab fa-github"
+      url: https://github.com/
+      icon: fab fa-github
       color: "#171515"
 
-    - name: "LinkedIn"
+    - name: LinkedIn
       username: jeandecian
-      url: "https://www.linkedin.com/in/"
-      icon: "fab fa-linkedin"
+      url: https://www.linkedin.com/in/
+      icon: fab fa-linkedin
       color: "#2D64BC"
 
-- name: "Skills"
+- name: Skills
   links:
-    - name: "Codewars"
+    - name: Codewars
       username: jeandecian
-      url: "https://www.codewars.com/users/"
-      icon: "fas fa-code"
+      url: https://www.codewars.com/users/
+      icon: fas fa-code
       color: "#B1361E"
 
-    - name: "HackerRank"
+    - name: HackerRank
       username: jeandecian
-      url: "https://www.hackerrank.com/profile/"
-      icon: "fab fa-hackerrank"
+      url: https://www.hackerrank.com/profile/
+      icon: fab fa-hackerrank
       color: "#64C471"
 
-    - name: "LeetCode"
+    - name: LeetCode
       username: jeandecian
-      url: "https://leetcode.com/u/"
-      icon: "fas fa-code"
+      url: https://leetcode.com/u/
+      icon: fas fa-code
       color: "#EBA440"
 
-    - name: "TryHackMe"
+    - name: TryHackMe
       username: jeandecian
-      url: "https://tryhackme.com/p/"
-      icon: "fas fa-code"
+      url: https://tryhackme.com/p/
+      icon: fas fa-code
       color: "#B12A20"
