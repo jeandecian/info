@@ -11,7 +11,7 @@ permalink: /learning/
       <tr>
         <th scope="col">Course Name</th>
         <th scope="col">Provider</th>
-        <th scope="col">CEU Hours</th>
+        <th scope="col">Education Hours</th>
         <th scope="col">Completion Date</th>
         <th scope="col">Certificate</th>
       </tr>
@@ -21,7 +21,7 @@ permalink: /learning/
       <tr>
         <th scope="row">{{ course.name }}</th>
         <td>{{ course.provider }}</td>
-        <td>{{ course.ceu }}</td>
+        <td>{{ course.hours }}</td>
         <td>{{ course.date }}</td>
         <td>
           <a

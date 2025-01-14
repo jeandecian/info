@@ -1,13 +1,13 @@
 - name: Green Software for Practitioners (LFC131)
   provider: The Linux Foundation
-  ceu:
+  hours:
   date: 2024-04-07
   certificate-id: LF-7g0tsqukyi
   certificate-extension: pdf
 
 - name: Linux 101
   provider: TCM Security, Inc.
-  ceu: 5.5
+  hours: 55 (5.5 CEUs)
   date: 2022-09-19
   certificate-id: cert_zvtzy4gw
   certificate-extension: pdf
