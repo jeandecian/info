@@ -25,9 +25,9 @@ permalink: /learning/
         <td>{{ course.date }}</td>
         <td>
           <a
-            href="{{ site.baseurl }}/assets/files/{{ course.certificate-id }}.pdf"
+            href="{{ site.baseurl }}/assets/files/{{ course.certificate-id }}.{{ course.certificate-extension }}"
             target="_blank"
-            ><span class="fas fa-file-pdf"></span
+            ><span class="fas fa-award"></span
           ></a>
         </td>
       </tr>
