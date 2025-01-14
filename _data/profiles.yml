@@ -12,6 +12,12 @@
       icon: fas fa-graduation-cap
       color: "#507FE5"
 
+    - name: IEEE Xplore
+      username: 369156419409131
+      url: https://ieeexplore.ieee.org/author/
+      icon: fas fa-book
+      color: "#00629B"
+
     - name: ORCID
       username: 0009-0002-4298-3271
       url: https://orcid.org/
