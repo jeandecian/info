@@ -21,6 +21,6 @@
   image: /assets/images/education-university-of-quebec-at-chicoutimi.png
   location: Chicoutimi, Canada
   date: 2023...
-  credits: 15/45
-  progress: 33.3
+  credits: 18/45
+  progress: 40
   progress-bar: progress-bar-striped bg-danger
