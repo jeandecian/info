@@ -1,13 +1,118 @@
+- name: API Security for PCI Compliance
+  provider: APIsec University
+  hours: 1 (1 CPE)
+  date: 2025-01-15
+  certificate-id: apisec-university_api-security-for-pci-compliance
+  certificate-extension: pdf
+
+- name: AWS Machine Learning Foundations 2022
+  provider: Udacity
+  hours:
+  date: 2022-09
+  certificate-id: SPEXZDEE
+  certificate-extension: pdf
+
+- name: Beginner's Guide to sqlmap
+  provider: Cybr
+  hours:
+  date: 2025-01-15
+  certificate-id: cybr_beginners-guide-to-sqlmap
+  certificate-extension: pdf
+
+- name: Foundations of Threat Hunting
+  provider: Purple Academy
+  hours: 1 (1 CPE)
+  date: 2022-08-30
+  certificate-id: 630d89bd32b6f8574634648a
+  certificate-extension: pdf
+
+- name: Getting Started in API Pen-Testing (1 hour)
+  provider: APIsec University
+  hours: 1 (1 CPE)
+  date: 2025-01-15
+  certificate-id: apisec-university_getting-started-in-api-pen-testing-1-hour
+  certificate-extension: pdf
+
 - name: Green Software for Practitioners (LFC131)
   provider: The Linux Foundation
-  hours:
+  hours: 2
   date: 2024-04-07
   certificate-id: LF-7g0tsqukyi
   certificate-extension: pdf
 
+- name: Information Security
+  provider: OpenLearn
+  hours: 10
+  date: 2025-01-14
+  certificate-id: openlearn_information-security
+  certificate-extension: pdf
+
+- name: "Intro to DFIR: The Divide and Conquer Process (3 hours)"
+  provider: Sleuth Kit Labs Training
+  hours: 4
+  date: 2025-01-15
+  certificate-id: qz8kz3uft1
+  certificate-extension: pdf
+
+- name: Intro to Linux from a Forensics Perspective - Ubuntu Version
+  provider: Cyber 5W
+  hours: 2 (2 CPEs)
+  date: 2025-01-14
+  certificate-id: oit7xtnnb6
+  certificate-extension: pdf
+
+- name: Introduction to Cyber Security Learning Path
+  provider: TryHackMe
+  hours:
+  date: 2022-08-15
+  certificate-id: THM-W7E0COUCVX
+  certificate-extension: png
+
+- name: Introduction to Cybersecurity
+  provider: Cisco Networking Academy
+  hours: 6
+  date: 2025-01-14
+  certificate-id: cisco-networking-academy_introduction-to-cybersecurity
+  certificate-extension: pdf
+
 - name: Linux 101
-  provider: TCM Security, Inc.
+  provider: TCM Security
   hours: 55 (5.5 CEUs)
   date: 2022-09-19
   certificate-id: cert_zvtzy4gw
+  certificate-extension: pdf
+
+- name: Pre Security Learning Path
+  provider: TryHackMe
+  hours:
+  date: 2022-09-23
+  certificate-id: THM-NLCQRZOYL5
+  certificate-extension: png
+
+- name: Python
+  provider: Kaggle
+  hours: 5
+  date: 2022-09-12
+  certificate-id: kaggle_python
+  certificate-extension: png
+
+- name: Scheduling Reports & Alerts (eLearning)
+  provider: Splunk
+  hours: 3 (3 CPEs)
+  date: 2021-11-10
+  certificate-id: splunk_scheduling-reports-alerts-elearning
+  certificate-extension: pdf
+
+- name: Search Under the Hood (eLearning)
+  provider: Splunk
+  hours: 1
+  date: 2021-11-10
+  certificate-id: splunk_search-under-the-hood-elearning
+  certificate-extension: pdf
+
+- name: Splunk User Behavior Analytics (eLearning)
+  provider: Splunk
+  hours: 1.5 (1.5 CPEs)
+  date: 2021-11-25
+  certificate-id: splunk_splunk-user-behavior-analytics-elearning
   certificate-extension: pdf
