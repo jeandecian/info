@@ -18,42 +18,37 @@ permalink: /publications/
     {% endfor %} {% endif %} {% endfor %}
   </div>
   <br />
-  <h2>Latest Publications</h2>
-  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 row-cols-xl-3 g-4">
     {% for publication in site.data.publications reversed %}
     <div class="col">
-      <div class="card text-center h-100">
-        <div class="card-header">
+      <div
+        class="card text-bg-light text-center h-100 border-0"
+        style="border-radius: 22px"
+      >
+        <div class="card-body d-flex flex-column">
           <div class="row">
             <div class="col">
-              <span
-                class="badge text-bg-secondary w-100 h-100 d-flex align-items-center justify-content-center"
-                >{{ publication.type }}</span
-              >
+              <span class="badge bg-dark">{{ publication.type }}</span>
             </div>
             <div class="col">
               {% if publication.selected %}
-              <span
-                class="fas fa-star text-warning"
-                style="font-size: 1em"
-              ></span>
+              <span class="badge rounded-pill bg-warning">
+                <span class="fas fa-star"></span>
+              </span>
               {% endif %}
             </div>
-            <div class="col text-muted text-end">{{ publication.year }}</div>
+            <div class="col text-end">
+              <span class="badge bg-dark">{{ publication.year }}</span>
+            </div>
           </div>
-        </div>
-        <div class="card-body d-flex flex-column">
-          <h5
-            class="card-title mb-0 flex-grow-1 d-flex align-items-center justify-content-center"
+          <hr />
+          <p
+            class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center"
           >
             {{ publication.title }}
-          </h5>
-          <div>
-            <hr />
-            <h6 class="card-subtitle text-body-secondary">
-              {{ publication.authors }}
-            </h6>
-          </div>
+          </p>
+          <hr />
+          <p class="card-text text-body-secondary">{{ publication.authors }}</p>
         </div>
       </div>
     </div>
