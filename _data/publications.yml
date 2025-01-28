@@ -2,10 +2,12 @@
   authors: Fehmi Jaafar and Jean Decian
   year: 2021
   type: Book Chapter
+  access: open
   selected: selected
 
 - title: "Wiki-IoT: Registering and Evaluating the Security and Resilience of Internet of Things and Connected Devices Using a Collaborative Platform"
   authors: Jean Decian and Fehmi Jaafar
   year: 2024
   type: Conference Paper
+  access:
   selected: selected

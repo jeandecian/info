@@ -31,7 +31,11 @@ permalink: /publications/
               <span class="badge bg-dark">{{ publication.type }}</span>
             </div>
             <div class="col">
-              {% if publication.selected %}
+              {% if publication.access == "open" %}
+              <span class="badge rounded-pill bg-primary">
+                <span class="fas fa-lock-open"></span>
+              </span>
+              {% endif %} {% if publication.selected %}
               <span class="badge rounded-pill bg-warning">
                 <span class="fas fa-star"></span>
               </span>
