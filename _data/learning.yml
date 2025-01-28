@@ -5,6 +5,20 @@
   certificate-id: apisec-university_api-security-for-pci-compliance
   certificate-extension: pdf
 
+- name: Assets, Threats, and Vulnerabilities
+  provider: Google
+  hours: 18
+  date: 2025-01-27
+  certificate-id: 064M6NXZ6W4X
+  certificate-extension: pdf
+
+- name: Automate Cybersecurity Tasks with Python
+  provider: Google
+  hours: 24
+  date: 2025-01-27
+  certificate-id: TESRHFQS81EK
+  certificate-extension: pdf
+
 - name: AWS Machine Learning Foundations 2022
   provider: Udacity
   hours:
@@ -19,6 +33,20 @@
   certificate-id: cybr_beginners-guide-to-sqlmap
   certificate-extension: pdf
 
+- name: "Connect and Protect: Networks and Network Security"
+  provider: Google
+  hours: 11
+  date: 2025-01-27
+  certificate-id: W8HEHUWXRHGB
+  certificate-extension: pdf
+
+- name: Foundations of Cybersecurity
+  provider: Google
+  hours: 9
+  date: 2025-01-27
+  certificate-id: R2CPX82I8UY7
+  certificate-extension: pdf
+
 - name: Foundations of Threat Hunting
   provider: Purple Academy
   hours: 1 (1 CPE)
@@ -31,6 +59,13 @@
   hours: 1 (1 CPE)
   date: 2025-01-15
   certificate-id: apisec-university_getting-started-in-api-pen-testing-1-hour
+  certificate-extension: pdf
+
+- name: Google Cybersecurity
+  provider: Google
+  hours:
+  date: 2025-01-28
+  certificate-id: 7XAQ37EEJQQZ
   certificate-extension: pdf
 
 - name: Green Software for Practitioners (LFC131)
@@ -82,12 +117,26 @@
   certificate-id: cert_zvtzy4gw
   certificate-extension: pdf
 
+- name: "Play It Safe: Manage Security Risks"
+  provider: Google
+  hours: 9
+  date: 2025-01-27
+  certificate-id: CHGXQO28X24T
+  certificate-extension: pdf
+
 - name: Pre Security Learning Path
   provider: TryHackMe
   hours:
   date: 2022-09-23
   certificate-id: THM-NLCQRZOYL5
   certificate-extension: png
+
+- name: "Put It to Work: Prepare for Cybersecurity Jobs"
+  provider: Google
+  hours: 14
+  date: 2025-01-27
+  certificate-id: 536XE571CM6Y
+  certificate-extension: pdf
 
 - name: Python
   provider: Kaggle
@@ -110,9 +159,23 @@
   certificate-id: splunk_search-under-the-hood-elearning
   certificate-extension: pdf
 
+- name: "Sound the Alarm: Detection and Response"
+  provider: Google
+  hours: 18
+  date: 2025-01-27
+  certificate-id: 3OWHC72IMR2E
+  certificate-extension: pdf
+
 - name: Splunk User Behavior Analytics (eLearning)
   provider: Splunk
   hours: 1.5 (1.5 CPEs)
   date: 2021-11-25
   certificate-id: splunk_splunk-user-behavior-analytics-elearning
+  certificate-extension: pdf
+
+- name: "Tools of the Trade: Linux and SQL"
+  provider: Google
+  hours: 21
+  date: 2025-01-27
+  certificate-id: SHJM96CMVDHC
   certificate-extension: pdf
