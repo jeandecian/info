@@ -30,6 +30,12 @@
       icon: fab fa-researchgate
       color: "#61D2AE"
 
+    - name: Semantic Scholar
+      username: 2335898706
+      url: https://www.semanticscholar.org/author/
+      icon: fas fa-graduation-cap
+      color: "#143675"
+
 - name: Certifications
   links:
     - name: Credly by Pearson
@@ -54,11 +60,35 @@
 
 - name: Skills
   links:
+    - name: Coderbyte
+      username: jeandecian
+      url: https://coderbyte.com/profile/
+      icon: fas fa-code
+      color: "#2CC2C7"
+
     - name: Codewars
       username: jeandecian
       url: https://www.codewars.com/users/
       icon: fas fa-code
       color: "#B1361E"
+
+    - name: CodinGame
+      username: f377363817f0500059a2aabb3883fc867773063
+      url: https://www.codingame.com/profile/
+      icon: fas fa-code
+      color: "#E9BD44"
+
+    - name: CryptoHack
+      username: jeandecian
+      url: https://cryptohack.org/user/
+      icon: fas fa-key
+      color: "#FEB32B"
+
+    - name: Hack The Box
+      username: 1012942
+      url: https://app.hackthebox.com/profile/
+      icon: fas fa-lock
+      color: "#BBFF34"
 
     - name: HackerRank
       username: jeandecian
@@ -66,11 +96,23 @@
       icon: fab fa-hackerrank
       color: "#64C471"
 
+    - name: Kaggle
+      username: jeandecian
+      url: https://www.kaggle.com/
+      icon: fab fa-kaggle
+      color: "#3392FF"
+
     - name: LeetCode
       username: jeandecian
       url: https://leetcode.com/u/
       icon: fas fa-code
       color: "#EBA440"
+
+    - name: LetsDefend
+      username: jeandecian
+      url: https://app.letsdefend.io/user/
+      icon: fas fa-lock
+      color: "#2DE5D9"
 
     - name: TryHackMe
       username: jeandecian
