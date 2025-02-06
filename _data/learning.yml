@@ -12,6 +12,20 @@
   certificate-id: apisec-university_api-security-for-pci-compliance
   certificate-extension: pdf
 
+- name: Assessing Compliance with Control Assessments
+  provider: AuditBoard
+  hours: 0.5 (0.5 CPE)
+  date: 2025-02-05
+  certificate-id: w6ho3adj9bn5
+  certificate-extension: pdf
+
+- name: Assessing Compliance with Framework Assessments
+  provider: AuditBoard
+  hours: 0.5 (0.5 CPE)
+  date: 2025-02-05
+  certificate-id: t84vw56u9bgu
+  certificate-extension: pdf
+
 - name: Assets, Threats, and Vulnerabilities
   provider: Google
   hours: 18
@@ -47,11 +61,32 @@
   certificate-id: iak3rfr2ij7y
   certificate-extension: pdf
 
+- name: Compliance Policies & Policy Review
+  provider: AuditBoard
+  hours: 0.5 (0.5 CPE)
+  date: 2025-02-05
+  certificate-id: 7mjb876x54u4
+  certificate-extension: pdf
+
 - name: "Connect and Protect: Networks and Network Security"
   provider: Google
   hours: 11
   date: 2025-01-27
   certificate-id: W8HEHUWXRHGB
+  certificate-extension: pdf
+
+- name: Creating & Remediating Compliance Issues
+  provider: AuditBoard
+  hours: 0.5 (0.5 CPE)
+  date: 2025-02-05
+  certificate-id: kgtqm3jzmqt2
+  certificate-extension: pdf
+
+- name: CrossComply For Owners
+  provider: AuditBoard
+  hours:
+  date: 2025-02-05
+  certificate-id: shikgpe9j4sg
   certificate-extension: pdf
 
 - name: Foundations of Cybersecurity
@@ -173,11 +208,25 @@
   certificate-id: universite-de-sherbrooke_introduction-to-quantum-computing
   certificate-extension: pdf
 
+- name: Learning Paths on AuditBoard Academy
+  provider: AuditBoard
+  hours:
+  date: 2025-02-05
+  certificate-id: ce54di73i2ep
+  certificate-extension: pdf
+
 - name: Linux 101
   provider: TCM Security
   hours: 55 (5.5 CEUs)
   date: 2022-09-19
   certificate-id: cert_zvtzy4gw
+  certificate-extension: pdf
+
+- name: Managing Controls in CrossComply
+  provider: AuditBoard
+  hours: 0.5 (0.5 CPE)
+  date: 2025-02-05
+  certificate-id: mzvmfvffbwda
   certificate-extension: pdf
 
 - name: New to Cyber Summit
@@ -214,6 +263,13 @@
   date: 2022-09-23
   certificate-id: THM-NLCQRZOYL5
   certificate-extension: png
+
+- name: Preparing Your CrossComply Data
+  provider: AuditBoard
+  hours:
+  date: 2025-02-05
+  certificate-id: xgfb76posu2t
+  certificate-extension: pdf
 
 - name: "Put It to Work: Prepare for Cybersecurity Jobs"
   provider: Google
