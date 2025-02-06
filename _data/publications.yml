@@ -4,6 +4,7 @@
   type: Book Chapter
   access: open
   selected: selected
+  page: 2021-02-11-social-network-cyberattacks-security-issues
 
 - title: "Wiki-IoT: Registering and Evaluating the Security and Resilience of Internet of Things and Connected Devices Using a Collaborative Platform"
   authors: Jean Decian and Fehmi Jaafar
@@ -11,3 +12,4 @@
   type: Conference Paper
   access:
   selected: selected
+  page: 2024-11-06-wiki-iot-registering-evaluating-security-resilience-internet-things-connected-devices-using-collaborative-platform

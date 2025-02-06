@@ -46,11 +46,20 @@ permalink: /publications/
             </div>
           </div>
           <hr />
+          {% if publication.page %}
+          <a
+            href="{{ site.baseurl }}/publications/{{ publication.page }}"
+            class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center stretched-link link-dark link-offset-3-hover link-underline-opacity-0 link-underline-opacity-75-hover"
+          >
+            {{ publication.title }}</a
+          >
+          {% else %}
           <p
             class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center"
           >
             {{ publication.title }}
           </p>
+          {% endif %}
           <hr />
           <p class="card-text text-body-secondary">{{ publication.authors }}</p>
         </div>
