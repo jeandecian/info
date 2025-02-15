@@ -89,6 +89,27 @@
   certificate-id: shikgpe9j4sg
   certificate-extension: pdf
 
+- name: Cybersecurity Fundamentals
+  provider: IBM SkillsBuild
+  hours: 6
+  date: 2025-02-12
+  certificate-id: 60855110-86b7-4e33-be12-41f77a845ea4
+  certificate-extension: pdf
+
+- name: Developing Secure Software (LFD121)
+  provider: The Linux Foundation
+  hours: 20
+  date: 2025-02-15
+  certificate-id: LF-kx9o4v68cw
+  certificate-extension: pdf
+
+- name: Digital forensics
+  provider: OpenLearn
+  hours: 8
+  date: 2025-02-15
+  certificate-id: openlearn_digital-forensics
+  certificate-extension: pdf
+
 - name: Foundations of Cybersecurity
   provider: Google
   hours: 9
@@ -194,11 +215,46 @@
   certificate-id: THM-W7E0COUCVX
   certificate-extension: png
 
+- name: Introduction to Cybercrime
+  provider: Simplilearn
+  hours: 2
+  date: 2025-02-14
+  certificate-id: 7904663
+  certificate-extension: pdf
+
 - name: Introduction to Cybersecurity
   provider: Cisco Networking Academy
   hours: 6
   date: 2025-01-14
   certificate-id: cisco-networking-academy_introduction-to-cybersecurity
+  certificate-extension: pdf
+
+- name: Introduction to Cybersecurity Awareness
+  provider: HP LIFE
+  hours:
+  date: 2025-02-14
+  certificate-id: d8352cc8-3e6f-4128-be32-0ce872883c6e
+  certificate-extension: pdf
+
+- name: "Introduction to Machine Learning: Art of the Possible"
+  provider: Amazon Web Services
+  hours:
+  date: 2025-02-15
+  certificate-id: amazon-web-services_introduction-to-machine-learning-art-of-the-possible
+  certificate-extension: pdf
+
+- name: Introduction to OSINT
+  provider: My OSINT Training
+  hours: 2 (2 CPEs)
+  date: 2025-02-12
+  certificate-id: fgtwgjmfmh
+  certificate-extension: pdf
+
+- name: Introduction to Physical Computing
+  provider: Lancaster University
+  hours: 4
+  date: 2025-02-13
+  certificate-id: 1hkmabh
   certificate-extension: pdf
 
 - name: Introduction to quantum computing
@@ -227,6 +283,13 @@
   hours: 0.5 (0.5 CPE)
   date: 2025-02-05
   certificate-id: mzvmfvffbwda
+  certificate-extension: pdf
+
+- name: Network security
+  provider: OpenLearn
+  hours: 25
+  date: 2025-02-12
+  certificate-id: openlearn_network-security
   certificate-extension: pdf
 
 - name: New to Cyber Summit
@@ -263,6 +326,20 @@
   date: 2022-09-23
   certificate-id: THM-NLCQRZOYL5
   certificate-extension: png
+
+- name: Preparing for CrossComply Design Discussions
+  provider: AuditBoard
+  hours:
+  date: 2025-02-10
+  certificate-id: gyhyw5hqdw3z
+  certificate-extension: pdf
+
+- name: Preparing for User Acceptance Testing & Launch
+  provider: AuditBoard
+  hours:
+  date: 2025-02-11
+  certificate-id: x6jn3864otu8
+  certificate-extension: pdf
 
 - name: Preparing Your CrossComply Data
   provider: AuditBoard
@@ -318,6 +395,13 @@
   hours: 21
   date: 2025-01-27
   certificate-id: SHJM96CMVDHC
+  certificate-extension: pdf
+
+- name: Uploading your own CrossComply Data with Visual Import
+  provider: AuditBoard
+  hours:
+  date: 2025-02-11
+  certificate-id: 5qsc7tqe6qr8
   certificate-extension: pdf
 
 - name: Using Fields (eLearning)
