@@ -5,33 +5,35 @@ permalink: /learning/
 ---
 
 <div class="container" style="margin-top: 1em">
-  <h2>Completed Courses</h2>
-  <table class="table table-hover table-sm">
-    <thead class="table-light">
-      <tr>
-        <th scope="col">Course Name</th>
-        <th scope="col">Provider</th>
-        <th scope="col">Education Hours</th>
-        <th scope="col">Completion Date</th>
-        <th scope="col">Certificate</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for course in site.data.learning %}
-      <tr>
-        <th scope="row">{{ course.name }}</th>
-        <td>{{ course.provider }}</td>
-        <td>{{ course.hours }}</td>
-        <td>{{ course.date }}</td>
-        <td>
+  <div class="row row-cols-1 row-cols-md-1 row-cols-lg-2 row-cols-xl-3 g-3">
+    {% for course in site.data.learning %}
+    <div class="col">
+      <div class="card mb-3" style="border-radius: 22px">
+        <div class="card-body">
+          <div class="row">
+            <div class="col">
+              <p class="text-body-secondary">{{ course.date }}</p>
+            </div>
+            <div class="col text-end">
+              {% if course.hours %}
+              <p class="text-body-secondary">
+                <span class="far fa-clock"></span> {{ course.hours }}
+              </p>
+              {% endif %}
+            </div>
+          </div>
+          <h5 class="card-title">{{ course.name }}</h5>
+          <p class="card-text">{{ course.provider }}</p>
           <a
+            class="btn btn-dark"
             href="{{ site.baseurl }}/assets/files/{{ course.certificate-id }}.{{ course.certificate-extension }}"
+            role="button"
             target="_blank"
-            ><span class="fas fa-award"></span
-          ></a>
-        </td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+            ><span class="fas fa-certificate"></span> Certificate</a
+          >
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 </div>
