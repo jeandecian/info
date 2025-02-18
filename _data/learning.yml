@@ -47,6 +47,13 @@
   certificate-id: SPEXZDEE
   certificate-extension: pdf
 
+- name: Become an AI-Powered Marketer
+  provider: Semrush Academy
+  hours: 1
+  date: 2025-02-16
+  certificate-id: e60b51fa03
+  certificate-extension: pdf
+
 - name: Beginner's Guide to sqlmap
   provider: Cybr
   hours:
@@ -208,6 +215,13 @@
   certificate-id: splunk_intro-to-splunk-elearning
   certificate-extension: pdf
 
+- name: Introduction to ChatGPT
+  provider: DataCamp
+  hours: 1
+  date: 2025-02-18
+  certificate-id: 9d2f7690d09e0a7906f956bf1c169d7198332ede
+  certificate-extension: pdf
+
 - name: Introduction to Cyber Security Learning Path
   provider: TryHackMe
   hours:
@@ -262,6 +276,13 @@
   hours: 3
   date: 2021-05-12
   certificate-id: universite-de-sherbrooke_introduction-to-quantum-computing
+  certificate-extension: pdf
+
+- name: Introduction to SQL and Relational Databases
+  provider: Lighthouse Labs
+  hours:
+  date: 2025-02-17
+  certificate-id: ollqjlj8y5
   certificate-extension: pdf
 
 - name: Learning Paths on AuditBoard Academy
