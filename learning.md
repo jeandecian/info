@@ -40,6 +40,15 @@ permalink: /learning/
             target="_blank"
             ><span class="fas fa-certificate"></span> Certificate</a
           >
+          {% if course.certificate-verification-url %}
+          <a
+            class="btn btn-primary"
+            href="{{ course.certificate-verification-url }}{{ course.certificate-id }}"
+            role="button"
+            target="_blank"
+            ><span class="fas fa-passport"></span> Verify</a
+          >
+          {% endif %}
         </div>
       </div>
     </div>

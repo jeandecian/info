@@ -4,6 +4,7 @@
   date: 2025-02-04
   certificate-id: w6onewnwbp7z
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: API Security for PCI Compliance
   provider: APIsec University
@@ -11,6 +12,7 @@
   date: 2025-01-15
   certificate-id: apisec-university_api-security-for-pci-compliance
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Assessing Compliance with Control Assessments
   provider: AuditBoard
@@ -18,6 +20,7 @@
   date: 2025-02-05
   certificate-id: w6ho3adj9bn5
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Assessing Compliance with Framework Assessments
   provider: AuditBoard
@@ -25,6 +28,7 @@
   date: 2025-02-05
   certificate-id: t84vw56u9bgu
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Assets, Threats, and Vulnerabilities
   provider: Google
@@ -32,6 +36,7 @@
   date: 2025-01-27
   certificate-id: 064M6NXZ6W4X
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Automate Cybersecurity Tasks with Python
   provider: Google
@@ -39,6 +44,7 @@
   date: 2025-01-27
   certificate-id: TESRHFQS81EK
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: AWS Machine Learning Foundations 2022
   provider: Udacity
@@ -46,6 +52,7 @@
   date: 2022-09
   certificate-id: SPEXZDEE
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Become an AI-Powered Marketer
   provider: Semrush Academy
@@ -53,6 +60,7 @@
   date: 2025-02-16
   certificate-id: e60b51fa03
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Beginner's Guide to sqlmap
   provider: Cybr
@@ -60,6 +68,7 @@
   date: 2025-01-15
   certificate-id: cybr_beginners-guide-to-sqlmap
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Building out Your Framework Infrastructure
   provider: AuditBoard
@@ -67,6 +76,7 @@
   date: 2025-02-04
   certificate-id: iak3rfr2ij7y
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Compliance Policies & Policy Review
   provider: AuditBoard
@@ -74,6 +84,7 @@
   date: 2025-02-05
   certificate-id: 7mjb876x54u4
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: "Connect and Protect: Networks and Network Security"
   provider: Google
@@ -81,6 +92,7 @@
   date: 2025-01-27
   certificate-id: W8HEHUWXRHGB
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Creating & Remediating Compliance Issues
   provider: AuditBoard
@@ -88,6 +100,7 @@
   date: 2025-02-05
   certificate-id: kgtqm3jzmqt2
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: CrossComply For Owners
   provider: AuditBoard
@@ -95,6 +108,7 @@
   date: 2025-02-05
   certificate-id: shikgpe9j4sg
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Cybersecurity Fundamentals
   provider: IBM SkillsBuild
@@ -102,6 +116,7 @@
   date: 2025-02-12
   certificate-id: 60855110-86b7-4e33-be12-41f77a845ea4
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Developing Secure Software (LFD121)
   provider: The Linux Foundation
@@ -109,6 +124,7 @@
   date: 2025-02-15
   certificate-id: LF-kx9o4v68cw
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Digital forensics
   provider: OpenLearn
@@ -116,6 +132,7 @@
   date: 2025-02-15
   certificate-id: openlearn_digital-forensics
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Foundations of Cybersecurity
   provider: Google
@@ -123,6 +140,7 @@
   date: 2025-01-27
   certificate-id: R2CPX82I8UY7
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Foundations of Threat Hunting
   provider: Purple Academy
@@ -130,6 +148,7 @@
   date: 2022-08-30
   certificate-id: 630d89bd32b6f8574634648a
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Gathering Evidence to Assess Compliance
   provider: AuditBoard
@@ -137,6 +156,7 @@
   date: 2025-02-04
   certificate-id: bn4zptgrzdbx
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Get Started with Implementation
   provider: AuditBoard
@@ -144,6 +164,7 @@
   date: 2025-01-29
   certificate-id: kyzydnmirrfv
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Getting Started in API Pen-Testing (1 hour)
   provider: APIsec University
@@ -151,6 +172,7 @@
   date: 2025-01-15
   certificate-id: apisec-university_getting-started-in-api-pen-testing-1-hour
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Google Cybersecurity
   provider: Google
@@ -158,6 +180,7 @@
   date: 2025-01-28
   certificate-id: 7XAQ37EEJQQZ
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/professional-cert/
 
 - name: Green Software for Practitioners (LFC131)
   provider: The Linux Foundation
@@ -165,6 +188,7 @@
   date: 2024-04-07
   certificate-id: LF-7g0tsqukyi
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Information Security
   provider: OpenLearn
@@ -172,6 +196,7 @@
   date: 2025-01-14
   certificate-id: openlearn_information-security
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Information Security Awareness
   provider: Fortinet Training Institute
@@ -179,6 +204,7 @@
   date: 2022-10-07
   certificate-id: fortinet-training-institute_information-security-awareness
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Intro to Dashboards (eLearning)
   provider: Splunk
@@ -186,6 +212,7 @@
   date: 2021-11-11
   certificate-id: splunk_intro-to-dashboards-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: "Intro to DFIR: The Divide and Conquer Process (3 hours)"
   provider: Sleuth Kit Labs Training
@@ -193,6 +220,7 @@
   date: 2025-01-15
   certificate-id: qz8kz3uft1
   certificate-extension: pdf
+  certificate-verification-url: https://training.sleuthkitlabs.com/certificates/
 
 - name: Intro to Knowledge Objects (eLearning)
   provider: Splunk
@@ -200,6 +228,7 @@
   date: 2021-11-10
   certificate-id: splunk_intro-to-knowledge-objects-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Intro to Linux from a Forensics Perspective - Ubuntu Version
   provider: Cyber 5W
@@ -207,6 +236,7 @@
   date: 2025-01-14
   certificate-id: oit7xtnnb6
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Intro to Splunk (eLearning)
   provider: Splunk
@@ -214,6 +244,7 @@
   date: 2021-11-10
   certificate-id: splunk_intro-to-splunk-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Introduction to ChatGPT
   provider: DataCamp
@@ -221,6 +252,7 @@
   date: 2025-02-18
   certificate-id: 9d2f7690d09e0a7906f956bf1c169d7198332ede
   certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Introduction to Cyber Security Learning Path
   provider: TryHackMe
@@ -228,6 +260,7 @@
   date: 2022-08-15
   certificate-id: THM-W7E0COUCVX
   certificate-extension: png
+  certificate-verification-url:
 
 - name: Introduction to Cybercrime
   provider: Simplilearn
@@ -235,6 +268,7 @@
   date: 2025-02-14
   certificate-id: 7904663
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Introduction to Cybersecurity
   provider: Cisco Networking Academy
@@ -242,6 +276,7 @@
   date: 2025-01-14
   certificate-id: cisco-networking-academy_introduction-to-cybersecurity
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Introduction to Cybersecurity Awareness
   provider: HP LIFE
@@ -249,6 +284,7 @@
   date: 2025-02-14
   certificate-id: d8352cc8-3e6f-4128-be32-0ce872883c6e
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: "Introduction to Machine Learning: Art of the Possible"
   provider: Amazon Web Services
@@ -256,6 +292,7 @@
   date: 2025-02-15
   certificate-id: amazon-web-services_introduction-to-machine-learning-art-of-the-possible
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Introduction to OSINT
   provider: My OSINT Training
@@ -263,6 +300,7 @@
   date: 2025-02-12
   certificate-id: fgtwgjmfmh
   certificate-extension: pdf
+  certificate-verification-url: https://www.myosint.training/certificates/
 
 - name: Introduction to Physical Computing
   provider: Lancaster University
@@ -270,6 +308,7 @@
   date: 2025-02-13
   certificate-id: 1hkmabh
   certificate-extension: pdf
+  certificate-verification-url: https://www.futurelearn.com/certificates/
 
 - name: Introduction to quantum computing
   provider: Université de Sherbrooke
@@ -277,6 +316,7 @@
   date: 2021-05-12
   certificate-id: universite-de-sherbrooke_introduction-to-quantum-computing
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Introduction to SQL and Relational Databases
   provider: Lighthouse Labs
@@ -284,6 +324,7 @@
   date: 2025-02-17
   certificate-id: ollqjlj8y5
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Learning Paths on AuditBoard Academy
   provider: AuditBoard
@@ -291,6 +332,7 @@
   date: 2025-02-05
   certificate-id: ce54di73i2ep
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Linux 101
   provider: TCM Security
@@ -298,6 +340,7 @@
   date: 2022-09-19
   certificate-id: cert_zvtzy4gw
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Managing Controls in CrossComply
   provider: AuditBoard
@@ -305,6 +348,7 @@
   date: 2025-02-05
   certificate-id: mzvmfvffbwda
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Network security
   provider: OpenLearn
@@ -312,6 +356,7 @@
   date: 2025-02-12
   certificate-id: openlearn_network-security
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: New to Cyber Summit
   provider: The SANS Institute
@@ -319,6 +364,7 @@
   date: 2022-03-23
   certificate-id: the-sans-institute_new-to-cyber-summit
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Official ISC2 Certified in Cybersecurity (CC) Self-Paced Training - 1M
   provider: ISC2
@@ -326,6 +372,7 @@
   date: 2022-12-16
   certificate-id: isc2_official-isc2-certified-in-cybersecurity-cc-self-paced-training-1m
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: "Play It Safe: Manage Security Risks"
   provider: Google
@@ -333,6 +380,7 @@
   date: 2025-01-27
   certificate-id: CHGXQO28X24T
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: PMP Basics
   provider: Simplilearn
@@ -340,6 +388,7 @@
   date: 2025-01-28
   certificate-id: 7828723
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Pre Security Learning Path
   provider: TryHackMe
@@ -347,6 +396,7 @@
   date: 2022-09-23
   certificate-id: THM-NLCQRZOYL5
   certificate-extension: png
+  certificate-verification-url:
 
 - name: Preparing for CrossComply Design Discussions
   provider: AuditBoard
@@ -354,6 +404,7 @@
   date: 2025-02-10
   certificate-id: gyhyw5hqdw3z
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Preparing for User Acceptance Testing & Launch
   provider: AuditBoard
@@ -361,6 +412,7 @@
   date: 2025-02-11
   certificate-id: x6jn3864otu8
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Preparing Your CrossComply Data
   provider: AuditBoard
@@ -368,6 +420,7 @@
   date: 2025-02-05
   certificate-id: xgfb76posu2t
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: "Put It to Work: Prepare for Cybersecurity Jobs"
   provider: Google
@@ -375,6 +428,7 @@
   date: 2025-01-27
   certificate-id: 536XE571CM6Y
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Python
   provider: Kaggle
@@ -382,6 +436,7 @@
   date: 2022-09-12
   certificate-id: kaggle_python
   certificate-extension: png
+  certificate-verification-url:
 
 - name: Scheduling Reports & Alerts (eLearning)
   provider: Splunk
@@ -389,6 +444,7 @@
   date: 2021-11-10
   certificate-id: splunk_scheduling-reports-alerts-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Search Under the Hood (eLearning)
   provider: Splunk
@@ -396,6 +452,7 @@
   date: 2021-11-10
   certificate-id: splunk_search-under-the-hood-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: "Sound the Alarm: Detection and Response"
   provider: Google
@@ -403,6 +460,7 @@
   date: 2025-01-27
   certificate-id: 3OWHC72IMR2E
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Splunk User Behavior Analytics (eLearning)
   provider: Splunk
@@ -410,6 +468,7 @@
   date: 2021-11-25
   certificate-id: splunk_splunk-user-behavior-analytics-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: "Tools of the Trade: Linux and SQL"
   provider: Google
@@ -417,6 +476,7 @@
   date: 2025-01-27
   certificate-id: SHJM96CMVDHC
   certificate-extension: pdf
+  certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Uploading your own CrossComply Data with Visual Import
   provider: AuditBoard
@@ -424,6 +484,7 @@
   date: 2025-02-11
   certificate-id: 5qsc7tqe6qr8
   certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Using Fields (eLearning)
   provider: Splunk
@@ -431,6 +492,7 @@
   date: 2021-11-10
   certificate-id: splunk_using-fields-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Visualizations (eLearning)
   provider: Splunk
@@ -438,6 +500,7 @@
   date: 2021-11-10
   certificate-id: splunk_visualizations-elearning
   certificate-extension: pdf
+  certificate-verification-url:
 
 - name: What is Splunk? (eLearning)
   provider: Splunk
@@ -445,3 +508,4 @@
   date: 2021-11-10
   certificate-id: splunk_what-is-splunk-elearning
   certificate-extension: pdf
+  certificate-verification-url:
