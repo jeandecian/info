@@ -6,6 +6,14 @@
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
 
+- name: AI Ethics
+  provider: DataCamp
+  hours: 1
+  date: 2025-02-19
+  certificate-id: 1cde6ade5240f0913ff9470636ee89ea9b57ddc9
+  certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
+
 - name: API Security for PCI Compliance
   provider: APIsec University
   hours: 1 (1 CPE)
@@ -158,6 +166,14 @@
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
 
+- name: Generative AI for Business
+  provider: DataCamp
+  hours: 1
+  date: 2025-02-19
+  certificate-id: 9f6159c05ab838df21a046bd3d4567fb827d2d93
+  certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
+
 - name: Get Started with Implementation
   provider: AuditBoard
   hours:
@@ -205,6 +221,14 @@
   certificate-id: fortinet-training-institute_information-security-awareness
   certificate-extension: pdf
   certificate-verification-url:
+
+- name: Intermediate ChatGPT
+  provider: DataCamp
+  hours: 1
+  date: 2025-02-19
+  certificate-id: 5bc5536cbc6733e54eee2d46c669085e0b56bad2
+  certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Intro to Dashboards (eLearning)
   provider: Splunk
@@ -478,6 +502,30 @@
   certificate-extension: pdf
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
+- name: Understanding Artificial Intelligence
+  provider: DataCamp
+  hours: 2
+  date: 2025-02-19
+  certificate-id: 37f401b0e8f9fc86dfbce876a1e0a24511834769
+  certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
+
+- name: Understanding Prompt Engineering
+  provider: DataCamp
+  hours: 1
+  date: 2025-02-19
+  certificate-id: 0d060fffbd3844c7437b7c619e2ba9755d2e78e9
+  certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
+
+- name: Understanding the EU AI Act
+  provider: DataCamp
+  hours: 1
+  date: 2025-02-19
+  certificate-id: 29a27d2a1fdef4b4ca61987fa5c2472ef943f6ff
+  certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
+
 - name: Uploading your own CrossComply Data with Visual Import
   provider: AuditBoard
   hours:
@@ -509,3 +557,11 @@
   certificate-id: splunk_what-is-splunk-elearning
   certificate-extension: pdf
   certificate-verification-url:
+
+- name: Working with the OpenAI API
+  provider: DataCamp
+  hours: 3
+  date: 2025-02-19
+  certificate-id: df01d3d1fb277c9a13bfd7afc81e652c2c07b460
+  certificate-extension: pdf
+  certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
