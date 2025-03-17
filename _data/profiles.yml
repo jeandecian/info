@@ -60,6 +60,12 @@
 
 - name: Skills
   links:
+    - name: Coddy
+      username: T8cXXLutoTXsNByTLUzkM5SXG3b2
+      url: https://coddy.tech/user/
+      icon: fas fa-code
+      color: "#51A1D6"
+
     - name: Coderbyte
       username: jeandecian
       url: https://coderbyte.com/profile/
@@ -84,6 +90,12 @@
       icon: fas fa-key
       color: "#FEB32B"
 
+    - name: Exercism
+      username: jeandecian
+      url: https://exercism.org/profiles/
+      icon: fas fa-code
+      color: "#120B40"
+
     - name: Hack The Box
       username: 1012942
       url: https://app.hackthebox.com/profile/
@@ -101,6 +113,12 @@
       url: https://www.kaggle.com/
       icon: fab fa-kaggle
       color: "#3392FF"
+
+    - name: KC7
+      username: jeandecian
+      url: https://kc7cyber.com/profile/
+      icon: fas fa-code
+      color: "#FF5700"
 
     - name: LeetCode
       username: jeandecian
