@@ -110,6 +110,14 @@
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
 
+- name: Creating With Git
+  provider: The Taggart Institute
+  hours:
+  date: 2025-03-10
+  certificate-id: cert_0k75kx1b
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: CrossComply For Owners
   provider: AuditBoard
   hours:
@@ -117,6 +125,14 @@
   certificate-id: shikgpe9j4sg
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
+
+- name: Cybersecurity Essentials (LFC108)
+  provider: The Linux Foundation
+  hours: 1
+  date: 2025-03-12
+  certificate-id: LF-hu48wkisn3
+  certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Cybersecurity Fundamentals
   provider: IBM SkillsBuild
@@ -198,6 +214,14 @@
   certificate-extension: pdf
   certificate-verification-url: https://www.coursera.org/account/accomplishments/professional-cert/
 
+- name: GRC Analyst Master Class
+  provider: Simply Cyber
+  hours: 7
+  date: 2025-03-11
+  certificate-id: cert_53bhffwn
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Green Software for Practitioners (LFC131)
   provider: The Linux Foundation
   hours: 2
@@ -262,11 +286,27 @@
   certificate-extension: pdf
   certificate-verification-url:
 
+- name: Intro to Regular Expressions
+  provider: The Taggart Institute
+  hours:
+  date: 2025-03-10
+  certificate-id: cert_skc60nlh
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Intro to Splunk (eLearning)
   provider: Splunk
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_intro-to-splunk-elearning
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: Intro to the Linux Command Line
+  provider: The Taggart Institute
+  hours:
+  date: 2025-03-10
+  certificate-id: cert_4l72dfv0
   certificate-extension: pdf
   certificate-verification-url:
 
@@ -277,6 +317,14 @@
   certificate-id: 9d2f7690d09e0a7906f956bf1c169d7198332ede
   certificate-extension: pdf
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
+
+- name: Introduction to CISSP
+  provider: Simplilearn
+  hours: 2
+  date: 2025-03-13
+  certificate-id: 8035822
+  certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Introduction to Cyber Security Learning Path
   provider: TryHackMe
@@ -318,6 +366,14 @@
   certificate-extension: pdf
   certificate-verification-url:
 
+- name: Introduction to Open Source
+  provider: Cognitive Class
+  hours: 4
+  date: 2025-03-01
+  certificate-id: 6def0576e5fc40298dcdfaed6fa23660
+  certificate-extension: pdf
+  certificate-verification-url: https://courses.cognitiveclass.ai/certificates/
+
 - name: Introduction to OSINT
   provider: My OSINT Training
   hours: 2 (2 CPEs)
@@ -357,6 +413,14 @@
   certificate-id: ce54di73i2ep
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
+
+- name: "Linux 100: Fundamentals"
+  provider: TCM Security
+  hours: 2
+  date: 2025-03-11
+  certificate-id: cert_k9plbndl
+  certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Linux 101
   provider: TCM Security
@@ -462,6 +526,14 @@
   certificate-extension: png
   certificate-verification-url:
 
+- name: Python for Defenders, Pt. 1
+  provider: The Taggart Institute
+  hours:
+  date: 2025-03-10
+  certificate-id: cert_vwcrwfyy
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Scheduling Reports & Alerts (eLearning)
   provider: Splunk
   hours: 3 (3 CPEs)
@@ -539,6 +611,14 @@
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_using-fields-elearning
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: Vim For Everyone
+  provider: The Taggart Institute
+  hours:
+  date: 2025-03-13
+  certificate-id: cert_5l23lqw5
   certificate-extension: pdf
   certificate-verification-url:
 
