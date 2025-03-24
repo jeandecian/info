@@ -12,33 +12,29 @@ permalink: /learning/
     <div class="col">
       <div class="card mb-3" style="border-radius: 22px">
         <div class="card-body">
-          <div class="row">
-            <div class="col">
-              <p class="text-body-secondary d-flex align-items-center">
-                {% if course_date > recent %}
-                <span
-                  class="badge rounded-pill bg-white text-success border border-success border-2 me-1"
-                  >New</span
-                >
-                {% endif %}{{ course.date }}
-              </p>
-            </div>
-            <div class="col text-end">
-              {% if course.hours %}
-              <p class="text-body-secondary">
-                <span class="far fa-clock"></span> {{ course.hours }}
-              </p>
-              {% endif %}
-            </div>
-          </div>
-          <h5 class="card-title">{{ course.name }}</h5>
-          <p class="card-text">{{ course.provider }}</p>
+          <h6 class="card-title">
+            {% if course_date > recent %}
+            <span
+              class="badge rounded-pill bg-white text-success border border-success border-2 me-1"
+              >New</span
+            >
+            {% endif %}{{ course.name }}
+          </h6>
+          <p class="card-text mb-2">
+            {{ course.provider }} {% if course.hours %}
+            <span
+              class="badge rounded-pill bg-white text-dark border border-dark border-2 ms-1"
+              ><span class="far fa-clock"></span> {{ course.hours }}h</span
+            >
+            {% endif %}
+          </p>
           <a
             class="btn btn-dark"
             href="{{ site.baseurl }}/assets/files/{{ course.certificate-id }}.{{ course.certificate-extension }}"
             role="button"
             target="_blank"
-            ><span class="fas fa-certificate"></span> Certificate</a
+            ><span class="fas fa-certificate"></span> Certificate ({{
+            course.date }})</a
           >
           {% if course.certificate-verification-url %}
           <a
