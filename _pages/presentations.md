@@ -29,7 +29,7 @@ permalink: /presentations/
         <td>{{ presentation.location }}</td>
         <td>
           <a
-            href="{{ site.baseurl }}/assets/files/slides/{{ presentation.slides-id }}.pdf"
+            href="{{ site.baseurl }}/files/slides/{{ presentation.slides-id }}.pdf"
             target="_blank"
             ><span class="fas fa-file-pdf"></span
           ></a>

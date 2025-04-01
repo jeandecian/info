@@ -30,7 +30,7 @@ permalink: /learning/
           </p>
           <a
             class="btn btn-dark"
-            href="{{ site.baseurl }}/assets/files/{{ course.certificate-id }}.{{ course.certificate-extension }}"
+            href="{{ site.baseurl }}/files/{{ course.certificate-id }}.{{ course.certificate-extension }}"
             role="button"
             target="_blank"
             ><span class="fas fa-certificate"></span> Certificate ({{
