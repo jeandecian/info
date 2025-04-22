@@ -19,7 +19,7 @@ permalink: /publications/
   </div>
   <br />
   <div class="row row-cols-1 row-cols-md-2 row-cols-lg-2 row-cols-xl-3 g-4">
-    {% for publication in site.data.publications reversed %}
+    {% for publication in site.publications reversed %}
     <div class="col">
       <div
         class="card text-bg-light text-center h-100 border-0"
@@ -42,24 +42,18 @@ permalink: /publications/
               {% endif %}
             </div>
             <div class="col text-end">
-              <span class="badge bg-dark">{{ publication.year }}</span>
+              <span class="badge bg-dark"
+                >{{ publication.date | date: "%Y" }}</span
+              >
             </div>
           </div>
           <hr />
-          {% if publication.page %}
           <a
-            href="{{ site.baseurl }}/publications/{{ publication.page }}"
+            href="{{ site.baseurl }}{{ publication.permalink }}"
             class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center stretched-link link-dark link-offset-3-hover link-underline-opacity-0 link-underline-opacity-75-hover"
           >
             {{ publication.title }}</a
           >
-          {% else %}
-          <p
-            class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center"
-          >
-            {{ publication.title }}
-          </p>
-          {% endif %}
           <hr />
           <p class="card-text text-body-secondary">{{ publication.authors }}</p>
         </div>
