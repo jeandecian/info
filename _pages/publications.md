@@ -52,4 +52,19 @@ permalink: /publications/
     </div>
     {% endfor %}
   </div>
+  <br />
+  <h3>Full Publications List</h3>
+  <ol reversed>
+    {% for publication in site.publications reversed %}
+    <li>
+      [{{ publication.type }}] {{ publication.authors }}, "<b
+        >{{ publication.title }}</b
+      >". [<a
+        href="{{ site.baseurl }}{{ publication.permalink }}"
+        class="link-primary link-underline-opacity-0 link-underline-opacity-75-hover"
+        >Blog</a
+      >]
+    </li>
+    {% endfor %}
+  </ol>
 </div>
