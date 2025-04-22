@@ -6,6 +6,14 @@
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
 
+- name: Advanced Schema Patterns and Antipatterns
+  provider: MongoDB University
+  hours: 1
+  date: 2025-03-31
+  certificate-id: E4BlCYdwSUCT_bqL3MqSCA
+  certificate-extension: pdf
+  certificate-verification-url: https://learn.mongodb.com/c/
+
 - name: AI Ethics
   provider: DataCamp
   hours: 1
@@ -526,6 +534,14 @@
   certificate-extension: pdf
   certificate-verification-url:
 
+- name: "PRDV304: Introduction to Supply Chain Management"
+  provider: Saylor Academy
+  hours: 3
+  date: 2025-03-25
+  certificate-id: 0165344137JD
+  certificate-extension: pdf
+  certificate-verification-url: https://learn.saylor.org/admin/tool/certificate/index.php?code=
+
 - name: "Put It to Work: Prepare for Cybersecurity Jobs"
   provider: Google
   hours: 14
@@ -549,6 +565,14 @@
   certificate-id: cert_vwcrwfyy
   certificate-extension: pdf
   certificate-verification-url:
+
+- name: RAG with MongoDB
+  provider: MongoDB University
+  hours: 1
+  date: 2025-03-31
+  certificate-id: Ed1yLIzSTaWDJuycGXSZXA
+  certificate-extension: pdf
+  certificate-verification-url: https://learn.mongodb.com/c/
 
 - name: Scheduling Reports & Alerts (eLearning)
   provider: Splunk
