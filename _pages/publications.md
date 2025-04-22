@@ -59,11 +59,16 @@ permalink: /publications/
     <li>
       [{{ publication.type }}] {{ publication.authors }}, "<b
         >{{ publication.title }}</b
-      >". [<a
+      >," <i>{{ publication.compilation }}</i>, {{ publication.extra }}. [<a
         href="{{ site.baseurl }}{{ publication.permalink }}"
         class="link-primary link-underline-opacity-0 link-underline-opacity-75-hover"
         >Blog</a
-      >]
+      >] {% if publication.doi %}[<a
+        href="https://www.doi.org/{{ publication.doi }}"
+        class="link-primary link-underline-opacity-0 link-underline-opacity-75-hover"
+        target="_blank"
+        >DOI</a
+      >]{% endif %}
     </li>
     {% endfor %}
   </ol>
