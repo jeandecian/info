@@ -6,36 +6,26 @@ permalink: /presentations/
 
 <div class="container" style="margin-top: 1em">
   <h2>Presentations</h2>
-  <table class="table table-hover table-sm">
-    <thead class="table-light">
-      <tr>
-        <th scope="col">Date</th>
-        <th scope="col">Paper Title</th>
-        <th scope="col">Conference</th>
-        <th scope="col">Location</th>
-        <th scope="col">Slides</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for presentation in site.data.presentations %}
-      <tr>
-        <th scope="row">{{ presentation.date }}</th>
-        <td>{{ presentation.paper }}</td>
-        <td>
-          <a href="{{ presentation.conference-url }}" target="_blank"
-            >{{ presentation.conference }}</a
-          >
-        </td>
-        <td>{{ presentation.location }}</td>
-        <td>
-          <a
-            href="{{ site.baseurl }}/files/slides/{{ presentation.slides-id }}.pdf"
-            target="_blank"
-            ><span class="fas fa-file-pdf"></span
-          ></a>
-        </td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+  <ul class="list-unstyled">
+    {% for presentation in site.data.presentations %}
+    <li>
+      [{{ presentation.date }}] "<b>{{ presentation.paper }}</b>" at
+      <i
+        ><a
+          href="{{ presentation.conference-url }}"
+          class="link-dark link-underline-opacity-0 link-underline-opacity-75-hover"
+          target="_blank"
+          >{{ presentation.conference }}</a
+        ></i
+      >
+      in {{ presentation.location }}. [📑
+      <a
+        href="{{ site.baseurl }}/files/slides/{{ presentation.slides-id }}.pdf"
+        class="link-primary link-underline-opacity-0 link-underline-opacity-75-hover"
+        target="_blank"
+        >Slides</a
+      >]
+    </li>
+    {% endfor %}
+  </ul>
 </div>
