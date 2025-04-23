@@ -10,8 +10,8 @@ permalink: /media/
     {% for media in site.data.media reversed %}
     <li class="d-flex justify-content-between">
       <span>
-        <b>[{{ media.date | date: "%Y"}}] "{{ media.title }}"</b>, {{
-        media.source }}, {{ media.date | date: "%b %Y"}}. ({{ media.context }})
+        [{{ media.date }}] "<b>{{ media.title }}</b>",
+        <i>{{ media.source }}</i>. ({{ media.context }})
         <b>[{{ media.language }}]</b></span
       >
       <span class="text-end">
