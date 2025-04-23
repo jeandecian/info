@@ -20,5 +20,33 @@ layout: default
   {% endif %} {% if page.abstract %}
   <h3>Abstract</h3>
   <p>{{ page.abstract }}</p>
+  {% endif %} {% if page.presented %}
+  <h3>Presentations</h3>
+  <ul class="list-unstyled">
+    {% for presentation in site.data.presentations %} {% if presentation.title
+    == page.title %}
+    <li class="d-flex justify-content-between">
+      <span
+        >[{{ presentation.date }}]
+        <i
+          ><a
+            href="{{ presentation.event-url }}"
+            class="link-dark link-underline-opacity-0 link-underline-opacity-75-hover"
+            target="_blank"
+            >{{ presentation.event }}</a
+          ></i
+        >
+        in {{ presentation.location }}</span
+      ><span class="text-end">
+        [<a
+          href="{{ site.baseurl }}/files/presentation/{{ presentation.file }}"
+          class="link-dark link-underline-opacity-0 link-underline-opacity-75-hover"
+          target="_blank"
+          >📑 {{ presentation.type }}</a
+        >]
+      </span>
+    </li>
+    {% endif %} {% endfor %}
+  </ul>
   {% endif %}
 </div>
