@@ -12,27 +12,26 @@ permalink: /profiles/
   >
     {% for profile in category.links %}
     <div class="col">
-      <div
-        class="card text-bg-light text-center mb-3 border-0"
-        style="border-radius: 22px"
-      >
+      <div class="card text-center border border-2" style="border-radius: 22px">
         <div class="card-body">
-          <h2 class="card-title" style="margin-bottom: 1rem">
-            <span
-              class="{{ profile.icon }} fa-3x"
-              style="color: {{ profile.color }}"
-            ></span>
-          </h2>
-          <a
-            href="{{ profile.url }}{{ profile.username }}"
-            class="btn btn-outline-dark col-12"
-            target="_blank"
-            >{{ profile.name }}</a
+          <span
+            class="{{ profile.icon }}"
+            style="color: {{ profile.color }}"
+          ></span>
+          <span class="text-end">
+            <a
+              href="{{ profile.url }}{{ profile.username }}"
+              class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center stretched-link link-dark link-offset-3-hover link-underline-opacity-0 link-underline-opacity-75-hover"
+              target="_blank"
+              >{{ profile.name }}</a
+            ></span
           >
         </div>
       </div>
     </div>
     {% endfor %}
   </div>
+  <br />
   {% endfor %}
 </div>
+
