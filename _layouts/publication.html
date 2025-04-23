@@ -10,14 +10,15 @@ layout: default
   </p>
   <h1 class="text-center">{{ page.title }}</h1>
   <h2 class="text-center text-muted">{{ page.authors }}</h2>
-  <p class="text-center text-secondary">{{ page.date }}</p>
+  <p class="text-center text-secondary">{{ page.date | date: "%-d %B %Y" }}</p>
   {% if page.access == "open" %}
   <p class="text-center">
     <span class="badge bg-white text-dark border border-dark" border-1
       ><span class="fas fa-lock-open"></span> Open Access
     </span>
   </p>
-  {% endif %}
+  {% endif %} {% if page.abstract %}
   <h3>Abstract</h3>
   <p>{{ page.abstract }}</p>
+  {% endif %}
 </div>
