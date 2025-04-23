@@ -18,4 +18,6 @@ title: Home
     </div>
     {% endfor %}
   </div>
+  <br />
+  {% include selected-publications.html %}
 </div>
