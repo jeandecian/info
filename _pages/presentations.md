@@ -9,7 +9,9 @@ permalink: /presentations/
   <ul class="list-unstyled">
     {% for presentation in site.data.presentations %}
     <li>
-      [{{ presentation.date }}] "<b>{{ presentation.paper }}</b>" at
+      [{{ presentation.date }}] Presented the {{ presentation.material }} of "<b
+        >{{ presentation.paper }}</b
+      >" at
       <i
         ><a
           href="{{ presentation.conference-url }}"
