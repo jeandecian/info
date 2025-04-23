@@ -7,7 +7,7 @@ permalink: /presentations/
 <div class="container" style="margin-top: 1em">
   <h2>Presentations</h2>
   <ul class="list-unstyled">
-    {% for presentation in site.data.presentations %}
+    {% for presentation in site.data.presentations reversed %}
     <li>
       [{{ presentation.date }}] Presented "<b>{{ presentation.title }}</b>" at
       the
