@@ -9,23 +9,22 @@ permalink: /presentations/
   <ul class="list-unstyled">
     {% for presentation in site.data.presentations %}
     <li>
-      [{{ presentation.date }}] Presented the {{ presentation.material }} of "<b
-        >{{ presentation.paper }}</b
-      >" at
+      [{{ presentation.date }}] Presented "<b>{{ presentation.title }}</b>" at
+      the
       <i
         ><a
-          href="{{ presentation.conference-url }}"
+          href="{{ presentation.event-url }}"
           class="link-dark link-underline-opacity-0 link-underline-opacity-75-hover"
           target="_blank"
-          >{{ presentation.conference }}</a
+          >{{ presentation.event }}</a
         ></i
       >
       in {{ presentation.location }}. [📑
       <a
-        href="{{ site.baseurl }}/files/slides/{{ presentation.slides-id }}.pdf"
+        href="{{ site.baseurl }}/files/presentation/{{ presentation.file }}"
         class="link-primary link-underline-opacity-0 link-underline-opacity-75-hover"
         target="_blank"
-        >Slides</a
+        >{{ presentation.type }}</a
       >]
     </li>
     {% endfor %}
