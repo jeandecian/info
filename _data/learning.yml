@@ -448,6 +448,24 @@
   certificate-extension: pdf
   certificate-verification-url: https://www.myosint.training/certificates/
 
+- name: Introduction to OSINT
+  topic: OSINT
+  provider: Security Blue Team
+  hours:
+  date: 2025-05-31
+  certificate-id: 890553453
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: Introduction to Penetration Testing
+  topic: Penetration Testing
+  provider: Security Blue Team
+  hours:
+  date: 2025-05-31
+  certificate-id: 162665582
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Introduction to Physical Computing
   topic: Computing
   provider: Lancaster University
