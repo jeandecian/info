@@ -5,10 +5,24 @@ permalink: /learning/
 ---
 
 <div class="container" style="margin-top: 1em">
+  {% assign grouped_courses = site.data.learning | group_by: 'topic' | sort:
+  'name' %}
+  <h3>Topics</h3>
+  <p>
+    {% for group in grouped_courses %}
+    <span
+      class="badge rounded-pill bg-white text-dark border border-dark border-2"
+      ><a href="#{{ group.name }}" class="link-dark link-underline-opacity-0"
+        >{{ group.name }}</a
+      ></span
+    >
+    {% endfor %}
+  </p>
+  {% for group in grouped_courses %}
+  <h3 id="{{ group.name }}">{{ group.name }} ({{ group.size }})</h3>
   <div class="row row-cols-1 row-cols-md-1 row-cols-lg-2 row-cols-xl-3 g-2">
     {% assign recent = 'now' | date: '%s' | minus: 2592000 %} {% for course in
-    site.data.learning %} {% assign course_date = course.date | date: '%s' |
-    plus: 0 %}
+    group.items %} {% assign course_date = course.date | date: '%s' | plus: 0 %}
     <div class="col">
       <div class="card mb-3" style="border-radius: 22px">
         <div class="card-body">
@@ -46,4 +60,5 @@ permalink: /learning/
     </div>
     {% endfor %}
   </div>
+  {% endfor %}
 </div>

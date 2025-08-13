@@ -1,4 +1,5 @@
 - name: Administering CrossComply Configurations
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-02-04
@@ -7,6 +8,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Advanced Schema Patterns and Antipatterns
+  topic: Database
   provider: MongoDB University
   hours: 1
   date: 2025-03-31
@@ -15,6 +17,7 @@
   certificate-verification-url: https://learn.mongodb.com/c/
 
 - name: AI Ethics
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 1
   date: 2025-02-19
@@ -23,6 +26,7 @@
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: API Security for PCI Compliance
+  topic: API
   provider: APIsec University
   hours: 1
   date: 2025-01-15
@@ -31,6 +35,7 @@
   certificate-verification-url:
 
 - name: Assessing Compliance with Control Assessments
+  topic: AuditBoard
   provider: AuditBoard
   hours: 0.5
   date: 2025-02-05
@@ -39,6 +44,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Assessing Compliance with Framework Assessments
+  topic: AuditBoard
   provider: AuditBoard
   hours: 0.5
   date: 2025-02-05
@@ -47,6 +53,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Assets, Threats, and Vulnerabilities
+  topic: Cybersecurity
   provider: Google
   hours: 18
   date: 2025-01-27
@@ -55,6 +62,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Automate Cybersecurity Tasks with Python
+  topic: Python
   provider: Google
   hours: 24
   date: 2025-01-27
@@ -63,6 +71,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: AWS Machine Learning Foundations 2022
+  topic: Machine Learning
   provider: Udacity
   hours:
   date: 2022-09
@@ -71,6 +80,7 @@
   certificate-verification-url:
 
 - name: Become an AI-Powered Marketer
+  topic: Marketing
   provider: Semrush Academy
   hours: 1
   date: 2025-02-16
@@ -79,6 +89,7 @@
   certificate-verification-url:
 
 - name: Beginner's Guide to sqlmap
+  topic: Penetration Testing
   provider: Cybr
   hours:
   date: 2025-01-15
@@ -87,6 +98,7 @@
   certificate-verification-url:
 
 - name: Building out Your Framework Infrastructure
+  topic: AuditBoard
   provider: AuditBoard
   hours: 0.5
   date: 2025-02-04
@@ -95,6 +107,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Compliance Policies & Policy Review
+  topic: AuditBoard
   provider: AuditBoard
   hours: 0.5
   date: 2025-02-05
@@ -103,6 +116,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: "Connect and Protect: Networks and Network Security"
+  topic: Network Security
   provider: Google
   hours: 11
   date: 2025-01-27
@@ -111,6 +125,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Creating & Remediating Compliance Issues
+  topic: AuditBoard
   provider: AuditBoard
   hours: 0.5
   date: 2025-02-05
@@ -119,6 +134,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Creating With Git
+  topic: Git
   provider: The Taggart Institute
   hours:
   date: 2025-03-10
@@ -127,6 +143,7 @@
   certificate-verification-url:
 
 - name: CrossComply For Owners
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-02-05
@@ -135,6 +152,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Cybersecurity Essentials (LFC108)
+  topic: Cybersecurity
   provider: The Linux Foundation
   hours: 1
   date: 2025-03-12
@@ -143,6 +161,7 @@
   certificate-verification-url:
 
 - name: Cybersecurity Fundamentals
+  topic: Cybersecurity
   provider: IBM SkillsBuild
   hours: 6
   date: 2025-02-12
@@ -151,6 +170,7 @@
   certificate-verification-url:
 
 - name: Developing Secure Software (LFD121)
+  topic: Software Development
   provider: The Linux Foundation
   hours: 20
   date: 2025-02-15
@@ -159,6 +179,7 @@
   certificate-verification-url:
 
 - name: Digital forensics
+  topic: Digital Forensics and Incident Response
   provider: OpenLearn
   hours: 8
   date: 2025-02-15
@@ -167,6 +188,7 @@
   certificate-verification-url:
 
 - name: Foundations of Cybersecurity
+  topic: Cybersecurity
   provider: Google
   hours: 9
   date: 2025-01-27
@@ -175,6 +197,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Foundations of Threat Hunting
+  topic: Threat Hunting
   provider: Purple Academy
   hours: 1
   date: 2022-08-30
@@ -183,6 +206,7 @@
   certificate-verification-url:
 
 - name: "Free Introduction: Basics of Disciplined Agile™ Online Course"
+  topic: Agile
   provider: Project Management Institute
   hours: 1
   date: 2025-03-21
@@ -191,6 +215,7 @@
   certificate-verification-url:
 
 - name: Gathering Evidence to Assess Compliance
+  topic: AuditBoard
   provider: AuditBoard
   hours: 0.5
   date: 2025-02-04
@@ -199,6 +224,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Generative AI for Business
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 1
   date: 2025-02-19
@@ -207,6 +233,7 @@
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Get Started with Implementation
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-01-29
@@ -215,6 +242,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Getting Started in API Pen-Testing (1 hour)
+  topic: Penetration Testing
   provider: APIsec University
   hours: 1
   date: 2025-01-15
@@ -223,6 +251,7 @@
   certificate-verification-url:
 
 - name: Google Cybersecurity
+  topic: Cybersecurity
   provider: Google
   hours:
   date: 2025-01-28
@@ -231,6 +260,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/professional-cert/
 
 - name: GRC Analyst Master Class
+  topic: Governance, Risk, and Compliance
   provider: Simply Cyber
   hours: 7
   date: 2025-03-11
@@ -239,6 +269,7 @@
   certificate-verification-url:
 
 - name: Green Software for Practitioners (LFC131)
+  topic: Software Development
   provider: The Linux Foundation
   hours: 2
   date: 2024-04-07
@@ -247,6 +278,7 @@
   certificate-verification-url:
 
 - name: Information Security
+  topic: Cybersecurity
   provider: OpenLearn
   hours: 10
   date: 2025-01-14
@@ -255,6 +287,7 @@
   certificate-verification-url:
 
 - name: Information Security Awareness
+  topic: Cybersecurity
   provider: Fortinet Training Institute
   hours:
   date: 2022-10-07
@@ -263,6 +296,7 @@
   certificate-verification-url:
 
 - name: Intermediate ChatGPT
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 1
   date: 2025-02-19
@@ -271,6 +305,7 @@
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Intro to Dashboards (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1
   date: 2021-11-11
@@ -279,6 +314,7 @@
   certificate-verification-url:
 
 - name: "Intro to DFIR: The Divide and Conquer Process (3 hours)"
+  topic: Digital Forensics and Incident Response
   provider: Sleuth Kit Labs Training
   hours: 4
   date: 2025-01-15
@@ -287,6 +323,7 @@
   certificate-verification-url: https://training.sleuthkitlabs.com/certificates/
 
 - name: Intro to Knowledge Objects (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1
   date: 2021-11-10
@@ -295,6 +332,7 @@
   certificate-verification-url:
 
 - name: Intro to Linux from a Forensics Perspective - Ubuntu Version
+  topic: Digital Forensics and Incident Response
   provider: Cyber 5W
   hours: 2
   date: 2025-01-14
@@ -303,6 +341,7 @@
   certificate-verification-url:
 
 - name: Intro to Regular Expressions
+  topic: Regular Expressions
   provider: The Taggart Institute
   hours:
   date: 2025-03-10
@@ -311,6 +350,7 @@
   certificate-verification-url:
 
 - name: Intro to Splunk (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1
   date: 2021-11-10
@@ -319,6 +359,7 @@
   certificate-verification-url:
 
 - name: Intro to the Linux Command Line
+  topic: Linux
   provider: The Taggart Institute
   hours:
   date: 2025-03-10
@@ -327,6 +368,7 @@
   certificate-verification-url:
 
 - name: Introduction to ChatGPT
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 1
   date: 2025-02-18
@@ -335,6 +377,7 @@
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Introduction to CISSP
+  topic: Cybersecurity
   provider: Simplilearn
   hours: 2
   date: 2025-03-13
@@ -343,6 +386,7 @@
   certificate-verification-url:
 
 - name: Introduction to Cyber Security Learning Path
+  topic: Cybersecurity
   provider: TryHackMe
   hours:
   date: 2022-08-15
@@ -351,6 +395,7 @@
   certificate-verification-url:
 
 - name: Introduction to Cybercrime
+  topic: Cybercrime
   provider: Simplilearn
   hours: 2
   date: 2025-02-14
@@ -359,6 +404,7 @@
   certificate-verification-url:
 
 - name: Introduction to Cybersecurity
+  topic: Cybersecurity
   provider: Cisco Networking Academy
   hours: 6
   date: 2025-01-14
@@ -367,6 +413,7 @@
   certificate-verification-url:
 
 - name: Introduction to Cybersecurity Awareness
+  topic: Cybersecurity
   provider: HP LIFE
   hours:
   date: 2025-02-14
@@ -375,6 +422,7 @@
   certificate-verification-url:
 
 - name: "Introduction to Machine Learning: Art of the Possible"
+  topic: Machine Learning
   provider: Amazon Web Services
   hours:
   date: 2025-02-15
@@ -383,6 +431,7 @@
   certificate-verification-url:
 
 - name: Introduction to Open Source
+  topic: Open Source
   provider: Cognitive Class
   hours: 4
   date: 2025-03-01
@@ -391,6 +440,7 @@
   certificate-verification-url: https://courses.cognitiveclass.ai/certificates/
 
 - name: Introduction to OSINT
+  topic: OSINT
   provider: My OSINT Training
   hours: 2
   date: 2025-02-12
@@ -399,6 +449,7 @@
   certificate-verification-url: https://www.myosint.training/certificates/
 
 - name: Introduction to Physical Computing
+  topic: Computing
   provider: Lancaster University
   hours: 4
   date: 2025-02-13
@@ -407,6 +458,7 @@
   certificate-verification-url: https://www.futurelearn.com/certificates/
 
 - name: Introduction to quantum computing
+  topic: Computing
   provider: Université de Sherbrooke
   hours: 3
   date: 2021-05-12
@@ -415,6 +467,7 @@
   certificate-verification-url:
 
 - name: Introduction to SQL and Relational Databases
+  topic: Database
   provider: Lighthouse Labs
   hours:
   date: 2025-02-17
@@ -423,6 +476,7 @@
   certificate-verification-url:
 
 - name: Learning Paths on AuditBoard Academy
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-02-05
@@ -431,6 +485,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: "Linux 100: Fundamentals"
+  topic: Linux
   provider: TCM Security
   hours: 2
   date: 2025-03-11
@@ -439,6 +494,7 @@
   certificate-verification-url:
 
 - name: Linux 101
+  topic: Linux
   provider: TCM Security
   hours: 5.5
   date: 2022-09-19
@@ -447,6 +503,7 @@
   certificate-verification-url:
 
 - name: Managing Controls in CrossComply
+  topic: AuditBoard
   provider: AuditBoard
   hours: 0.5
   date: 2025-02-05
@@ -455,6 +512,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Network security
+  topic: Network Security
   provider: OpenLearn
   hours: 25
   date: 2025-02-12
@@ -463,6 +521,7 @@
   certificate-verification-url:
 
 - name: New to Cyber Summit
+  topic: Cybersecurity
   provider: The SANS Institute
   hours: 5
   date: 2022-03-23
@@ -471,6 +530,7 @@
   certificate-verification-url:
 
 - name: Official ISC2 Certified in Cybersecurity (CC) Self-Paced Training - 1M
+  topic: Cybersecurity
   provider: ISC2
   hours:
   date: 2022-12-16
@@ -479,6 +539,7 @@
   certificate-verification-url:
 
 - name: "Play It Safe: Manage Security Risks"
+  topic: Governance, Risk, and Compliance
   provider: Google
   hours: 9
   date: 2025-01-27
@@ -487,6 +548,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: PMP Basics
+  topic: Project Management
   provider: Simplilearn
   hours: 9
   date: 2025-01-28
@@ -495,6 +557,7 @@
   certificate-verification-url:
 
 - name: Pre Security Learning Path
+  topic: Cybersecurity
   provider: TryHackMe
   hours:
   date: 2022-09-23
@@ -503,6 +566,7 @@
   certificate-verification-url:
 
 - name: Preparing for CrossComply Design Discussions
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-02-10
@@ -511,6 +575,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Preparing for User Acceptance Testing & Launch
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-02-11
@@ -519,6 +584,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Preparing Your CrossComply Data
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-02-05
@@ -527,6 +593,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: "Programming 100: Fundamentals"
+  topic: Programming
   provider: TCM Security
   hours: 3
   date: 2025-03-19
@@ -535,6 +602,7 @@
   certificate-verification-url:
 
 - name: "PRDV304: Introduction to Supply Chain Management"
+  topic: Supply Chain Management
   provider: Saylor Academy
   hours: 3
   date: 2025-03-25
@@ -543,6 +611,7 @@
   certificate-verification-url: https://learn.saylor.org/admin/tool/certificate/index.php?code=
 
 - name: "Put It to Work: Prepare for Cybersecurity Jobs"
+  topic: Cybersecurity
   provider: Google
   hours: 14
   date: 2025-01-27
@@ -551,6 +620,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Python
+  topic: Python
   provider: Kaggle
   hours: 5
   date: 2022-09-12
@@ -559,6 +629,7 @@
   certificate-verification-url:
 
 - name: Python for Defenders, Pt. 1
+  topic: Python
   provider: The Taggart Institute
   hours:
   date: 2025-03-10
@@ -567,6 +638,7 @@
   certificate-verification-url:
 
 - name: RAG with MongoDB
+  topic: Database
   provider: MongoDB University
   hours: 1
   date: 2025-03-31
@@ -575,6 +647,7 @@
   certificate-verification-url: https://learn.mongodb.com/c/
 
 - name: Scheduling Reports & Alerts (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 3
   date: 2021-11-10
@@ -583,6 +656,7 @@
   certificate-verification-url:
 
 - name: Search Under the Hood (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1
   date: 2021-11-10
@@ -591,6 +665,7 @@
   certificate-verification-url:
 
 - name: "Sound the Alarm: Detection and Response"
+  topic: Cybersecurity
   provider: Google
   hours: 18
   date: 2025-01-27
@@ -599,6 +674,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Splunk User Behavior Analytics (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1.5
   date: 2021-11-25
@@ -607,6 +683,7 @@
   certificate-verification-url:
 
 - name: "Tools of the Trade: Linux and SQL"
+  topic: Linux
   provider: Google
   hours: 21
   date: 2025-01-27
@@ -615,6 +692,7 @@
   certificate-verification-url: https://www.coursera.org/account/accomplishments/verify/
 
 - name: Understanding Artificial Intelligence
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 2
   date: 2025-02-19
@@ -623,6 +701,7 @@
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Understanding Prompt Engineering
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 1
   date: 2025-02-19
@@ -631,6 +710,7 @@
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Understanding the EU AI Act
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 1
   date: 2025-02-19
@@ -639,6 +719,7 @@
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
 - name: Uploading your own CrossComply Data with Visual Import
+  topic: AuditBoard
   provider: AuditBoard
   hours:
   date: 2025-02-11
@@ -647,6 +728,7 @@
   certificate-verification-url: https://verify.skilljar.com/c/
 
 - name: Using Fields (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1
   date: 2021-11-10
@@ -655,6 +737,7 @@
   certificate-verification-url:
 
 - name: Vim For Everyone
+  topic: Linux
   provider: The Taggart Institute
   hours:
   date: 2025-03-13
@@ -663,6 +746,7 @@
   certificate-verification-url:
 
 - name: Visualizations (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1
   date: 2021-11-10
@@ -671,6 +755,7 @@
   certificate-verification-url:
 
 - name: What is Splunk? (eLearning)
+  topic: Splunk
   provider: Splunk
   hours: 1
   date: 2021-11-10
@@ -679,6 +764,7 @@
   certificate-verification-url:
 
 - name: Working with the OpenAI API
+  topic: Artificial Intelligence
   provider: DataCamp
   hours: 3
   date: 2025-02-19
