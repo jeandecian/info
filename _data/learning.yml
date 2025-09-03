@@ -25,6 +25,15 @@
   certificate-extension: pdf
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
+- name: AI Fundamentals with IBM SkillsBuild
+  topic: Artificial Intelligence
+  provider: IBM SkillsBuild
+  hours:
+  date: 2025-08-20
+  certificate-id: ibm-skillsbuild_ai-fundamentals-with-ibm-skillsbuild
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: API Security for PCI Compliance
   topic: API
   provider: APIsec University
@@ -115,6 +124,15 @@
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
 
+- name: Computer Hardware Basics
+  topic: Computing
+  provider: Cisco Networking Academy
+  hours:
+  date: 2025-08-25
+  certificate-id: cisco-networking-academy_computer-hardware-basics
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: "Connect and Protect: Networks and Network Security"
   topic: Network Security
   provider: Google
@@ -132,6 +150,15 @@
   certificate-id: kgtqm3jzmqt2
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
+
+- name: Creating Compelling Reports
+  topic: Communication
+  provider: Cisco Networking Academy
+  hours:
+  date: 2025-08-17
+  certificate-id: cisco-networking-academy_creating-compelling-reports
+  certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Creating With Git
   topic: Git
