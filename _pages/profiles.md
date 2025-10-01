@@ -12,17 +12,21 @@ permalink: /profiles/
   >
     {% for profile in category.links %}
     <div class="col">
-      <div class="card text-center border border-2" style="border-radius: 22px">
+      <div
+        class="card text-center border border-2"
+        style="background-color: {{ profile.color }}; border-radius: 22px"
+      >
         <div class="card-body">
           <span
             class="{{ profile.icon }}"
-            style="color: {{ profile.color }}"
+            style="color: {{ profile.font-color }}"
           ></span>
           <span class="text-end">
             <a
               href="{{ profile.url }}{{ profile.username }}"
-              class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center stretched-link link-dark link-offset-3-hover link-underline-opacity-0 link-underline-opacity-75-hover"
+              class="card-text mb-0 flex-grow-1 d-flex align-items-center justify-content-center stretched-link link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
               target="_blank"
+              style="color: {{ profile.font-color }}"
               >{{ profile.name }}</a
             ></span
           >
@@ -34,4 +38,3 @@ permalink: /profiles/
   <br />
   {% endfor %}
 </div>
-

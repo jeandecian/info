@@ -5,36 +5,42 @@
       url: https://account.eai.eu/profiles/
       icon: fas fa-book
       color: "#19407B"
+      font-color: "#FFFFFF"
 
     - name: Google Scholar
       username: e0iFMX4AAAAJ
       url: https://scholar.google.com/citations?user=
       icon: fas fa-graduation-cap
       color: "#507FE5"
+      font-color: "#FFFFFF"
 
     - name: IEEE Xplore
       username: 369156419409131
       url: https://ieeexplore.ieee.org/author/
       icon: fas fa-book
       color: "#00629B"
+      font-color: "#FFFFFF"
 
     - name: ORCID
       username: 0009-0002-4298-3271
       url: https://orcid.org/
       icon: fab fa-orcid
       color: "#AFCE53"
+      font-color: "#FFFFFF"
 
     - name: ResearchGate
       username: Jean_Decian
       url: https://www.researchgate.net/profile/
       icon: fab fa-researchgate
       color: "#61D2AE"
+      font-color: "#FFFFFF"
 
     - name: Semantic Scholar
       username: 2335898706
       url: https://www.semanticscholar.org/author/
       icon: fas fa-graduation-cap
       color: "#143675"
+      font-color: "#FFFFFF"
 
 - name: Certifications
   links:
@@ -43,6 +49,7 @@
       url: https://www.credly.com/users/
       icon: fas fa-certificate
       color: "#ED742E"
+      font-color: "#FFFFFF"
 
 - name: Profesionnal
   links:
@@ -51,12 +58,14 @@
       url: https://github.com/
       icon: fab fa-github
       color: "#171515"
+      font-color: "#FFFFFF"
 
     - name: LinkedIn
       username: jeandecian
       url: https://www.linkedin.com/in/
       icon: fab fa-linkedin
       color: "#2D64BC"
+      font-color: "#FFFFFF"
 
 - name: Skills
   links:
@@ -65,75 +74,88 @@
       url: https://coddy.tech/user/
       icon: fas fa-code
       color: "#51A1D6"
+      font-color: "#FFFFFF"
 
     - name: Coderbyte
       username: jeandecian
       url: https://coderbyte.com/profile/
       icon: fas fa-code
       color: "#2CC2C7"
+      font-color: "#FFFFFF"
 
     - name: Codewars
       username: jeandecian
       url: https://www.codewars.com/users/
       icon: fas fa-code
       color: "#B1361E"
+      font-color: "#FFFFFF"
 
     - name: CodinGame
       username: f377363817f0500059a2aabb3883fc867773063
       url: https://www.codingame.com/profile/
       icon: fas fa-code
       color: "#E9BD44"
+      font-color: "#FFFFFF"
 
     - name: CryptoHack
       username: jeandecian
       url: https://cryptohack.org/user/
       icon: fas fa-key
       color: "#FEB32B"
+      font-color: "#FFFFFF"
 
     - name: Exercism
       username: jeandecian
       url: https://exercism.org/profiles/
       icon: fas fa-code
       color: "#120B40"
+      font-color: "#FFFFFF"
 
     - name: Hack The Box
       username: 1012942
       url: https://app.hackthebox.com/profile/
       icon: fas fa-lock
       color: "#BBFF34"
+      font-color: "#000000"
 
     - name: HackerRank
       username: jeandecian
       url: https://www.hackerrank.com/profile/
       icon: fab fa-hackerrank
       color: "#64C471"
+      font-color: "#FFFFFF"
 
     - name: Kaggle
       username: jeandecian
       url: https://www.kaggle.com/
       icon: fab fa-kaggle
       color: "#3392FF"
+      font-color: "#FFFFFF"
 
     - name: KC7
       username: jeandecian
       url: https://kc7cyber.com/profile/
       icon: fas fa-code
       color: "#FF5700"
+      font-color: "#FFFFFF"
 
     - name: LeetCode
       username: jeandecian
       url: https://leetcode.com/u/
       icon: fas fa-code
       color: "#EBA440"
+      font-color: "#FFFFFF"
 
     - name: LetsDefend
       username: jeandecian
       url: https://app.letsdefend.io/user/
       icon: fas fa-lock
       color: "#2DE5D9"
+      font-color: "#FFFFFF"
 
     - name: TryHackMe
       username: jeandecian
       url: https://tryhackme.com/p/
       icon: fas fa-code
       color: "#B12A20"
+      font-color: "#FFFFFF"
