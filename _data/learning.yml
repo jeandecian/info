@@ -205,12 +205,48 @@
   certificate-extension: pdf
   certificate-verification-url:
 
+- name: Digital Awareness
+  topic: Digital Literacy
+  provider: Cisco Networking Academy
+  hours: 6
+  date: 2025-09-30
+  certificate-id: cisco-networking-academy_digital-awareness
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Digital forensics
   topic: Digital Forensics and Incident Response
   provider: OpenLearn
   hours: 8
   date: 2025-02-15
   certificate-id: openlearn_digital-forensics
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: Endpoint Security
+  topic: Cybersecurity
+  provider: Cisco Networking Academy
+  hours: 27
+  date: 2025-09-30
+  certificate-id: cisco-networking-academy_endpoint-security
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: Engaging Stakeholders for Success
+  topic: Stakeholder Management
+  provider: Cisco Networking Academy
+  hours: 3
+  date: 2025-09-30
+  certificate-id: cisco-networking-academy_engaging-stakeholders-for-success
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: English for IT 1
+  topic: English
+  provider: Cisco Networking Academy
+  hours: 50
+  date: 2025-09-30
+  certificate-id: cisco-networking-academy_english-for-it-1
   certificate-extension: pdf
   certificate-verification-url:
 
@@ -583,6 +619,15 @@
   certificate-extension: pdf
   certificate-verification-url:
 
+- name: Operating Systems Basics
+  topic: Computing
+  provider: Cisco Networking Academy
+  hours: 12
+  date: 2025-09-30
+  certificate-id: cisco-networking-academy_operating-systems-basics
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: "Play It Safe: Manage Security Risks"
   topic: Governance, Risk, and Compliance
   provider: Google
@@ -771,6 +816,15 @@
   certificate-id: 5qsc7tqe6qr8
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
+
+- name: Using Computer and Mobile Devices
+  topic: Digital Literacy
+  provider: Cisco Networking Academy
+  hours: 6
+  date: 2025-09-30
+  certificate-id: cisco-networking-academy_using-computer-and-mobile-devices
+  certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Using Fields (eLearning)
   topic: Splunk
