@@ -27,7 +27,14 @@ async function fetchRepos() {
         <div class="card h-100" style="border-radius: 22px">
           <div class="card-body">
             <h5 class="card-title">${repo.name}</h5>
-            <a href="${repo.html_url}" target="_blank" class="btn btn-primary">View on GitHub</a>
+            <a href="${
+              repo.html_url
+            }" target="_blank" class="btn btn-primary">View on GitHub</a>
+            ${
+              repo.has_pages
+                ? `<a href="https://${repo.owner.login}.github.io/${repo.name}" target="_blank" class="btn btn-secondary ms-2">View Site</a>`
+                : ""
+            }
           </div>
         </div>
       `;
