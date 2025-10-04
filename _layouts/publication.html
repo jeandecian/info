@@ -17,7 +17,58 @@ layout: default
       ><span class="fas fa-lock-open"></span> Open Access
     </span>
   </p>
-  {% endif %} {% if page.abstract %}
+  {% endif %}
+  <h3>Status</h3>
+  <table class="table table-borderless table-sm">
+    <tbody>
+      {% if page.accepted-url %}
+      <tr>
+        <td>
+          <span class="badge rounded-pill text-info border border-info"
+            >ACCEPTED</span
+          >
+        </td>
+        <td></td>
+        <td>
+          <a
+            href="{{ page.accepted-url }}"
+            target="_blank"
+            class="link-dark link-underline-opacity-0 link-underline-opacity-75-hover"
+            >{{ page.accepted-url }}</a
+          >
+        </td>
+      </tr>
+      {% endif %} {% if page.presentation-date %}
+      <tr>
+        <td>
+          <span class="badge rounded-pill text-warning border border-warning"
+            >PRESENTED</span
+          >
+        </td>
+        <td>{{ page.presentation-date | date: "%-d %B %Y" }}</td>
+        <td></td>
+      </tr>
+      {% endif %} {% if page.date %}
+      <tr>
+        <td>
+          <span class="badge rounded-pill text-success border border-success"
+            >PUBLISHED</span
+          >
+        </td>
+        <td>{{ page.date | date: "%-d %B %Y" }}</td>
+        <td>
+          <a
+            href="{{ page.publication-url }}"
+            target="_blank"
+            class="link-dark link-underline-opacity-0 link-underline-opacity-75-hover"
+            >{{ page.publication-url }}</a
+          >
+        </td>
+      </tr>
+      {% endif %}
+    </tbody>
+  </table>
+  {% if page.abstract %}
   <h3>Abstract</h3>
   <p>{{ page.abstract }}</p>
   {% endif %} {% if page.presented %}
