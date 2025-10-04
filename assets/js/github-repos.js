@@ -8,11 +8,19 @@ async function fetchRepos() {
   reposList.innerHTML = "";
 
   try {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(response.statusText);
+    let allRepos = [];
+    let page = 1;
+    while (true) {
+      const response = await fetch(`${url}?per_page=100&page=${page}`);
+      if (!response.ok) throw new Error(response.statusText);
 
-    const repos = await response.json();
-    repos.forEach((repo) => {
+      const repos = await response.json();
+      if (repos.length === 0) break;
+      allRepos = allRepos.concat(repos);
+      page++;
+    }
+
+    allRepos.forEach((repo) => {
       const repoItem = document.createElement("li");
       repoItem.innerHTML = `<a href="${repo.html_url}" target="_blank">${repo.name}</a>`;
       reposList.appendChild(repoItem);
