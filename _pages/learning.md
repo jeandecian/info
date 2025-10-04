@@ -41,7 +41,7 @@ permalink: /learning/
           {% endif %}
           <a
             class="badge rounded-pill bg-white text-primary border border-primary border-2"
-            href="{{ site.baseurl }}/files/{{ course.certificate-id }}.{{ course.certificate-extension }}"
+            href="{{ site.baseurl }}/files/learning/{{course.provider-id}}/{{ course.certificate-id }}.{{ course.certificate-extension }}"
             role="button"
             target="_blank"
             ><span class="fas fa-certificate"></span> Certificate</a
