@@ -1,6 +1,7 @@
 - name: Administering CrossComply Configurations
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-02-04
   certificate-id: w6onewnwbp7z
@@ -10,6 +11,7 @@
 - name: Advanced Schema Patterns and Antipatterns
   topic: Database
   provider: MongoDB University
+  provider-id: mongodb-university
   hours: 1
   date: 2025-03-31
   certificate-id: E4BlCYdwSUCT_bqL3MqSCA
@@ -19,6 +21,7 @@
 - name: AI Ethics
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 1
   date: 2025-02-19
   certificate-id: 1cde6ade5240f0913ff9470636ee89ea9b57ddc9
@@ -28,6 +31,7 @@
 - name: AI Fundamentals with IBM SkillsBuild
   topic: Artificial Intelligence
   provider: IBM SkillsBuild
+  provider-id: ibm-skillsbuild
   hours:
   date: 2025-08-20
   certificate-id: ibm-skillsbuild_ai-fundamentals-with-ibm-skillsbuild
@@ -37,6 +41,7 @@
 - name: API Security for PCI Compliance
   topic: API
   provider: APIsec University
+  provider-id: apisec-university
   hours: 1
   date: 2025-01-15
   certificate-id: apisec-university_api-security-for-pci-compliance
@@ -46,6 +51,7 @@
 - name: Assessing Compliance with Control Assessments
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours: 0.5
   date: 2025-02-05
   certificate-id: w6ho3adj9bn5
@@ -55,6 +61,7 @@
 - name: Assessing Compliance with Framework Assessments
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours: 0.5
   date: 2025-02-05
   certificate-id: t84vw56u9bgu
@@ -64,6 +71,7 @@
 - name: Assets, Threats, and Vulnerabilities
   topic: Cybersecurity
   provider: Google
+  provider-id: google
   hours: 18
   date: 2025-01-27
   certificate-id: 064M6NXZ6W4X
@@ -73,6 +81,7 @@
 - name: Automate Cybersecurity Tasks with Python
   topic: Python
   provider: Google
+  provider-id: google
   hours: 24
   date: 2025-01-27
   certificate-id: TESRHFQS81EK
@@ -82,6 +91,7 @@
 - name: AWS Machine Learning Foundations 2022
   topic: Machine Learning
   provider: Udacity
+  provider-id: udacity
   hours:
   date: 2022-09
   certificate-id: SPEXZDEE
@@ -91,6 +101,7 @@
 - name: Become an AI-Powered Marketer
   topic: Marketing
   provider: Semrush Academy
+  provider-id: semrush-academy
   hours: 1
   date: 2025-02-16
   certificate-id: e60b51fa03
@@ -100,6 +111,7 @@
 - name: Beginner's Guide to sqlmap
   topic: Penetration Testing
   provider: Cybr
+  provider-id: cybr
   hours:
   date: 2025-01-15
   certificate-id: cybr_beginners-guide-to-sqlmap
@@ -109,6 +121,7 @@
 - name: Building out Your Framework Infrastructure
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours: 0.5
   date: 2025-02-04
   certificate-id: iak3rfr2ij7y
@@ -118,6 +131,7 @@
 - name: Compliance Policies & Policy Review
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours: 0.5
   date: 2025-02-05
   certificate-id: 7mjb876x54u4
@@ -127,6 +141,7 @@
 - name: Computer Hardware Basics
   topic: Computing
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours:
   date: 2025-08-25
   certificate-id: cisco-networking-academy_computer-hardware-basics
@@ -136,6 +151,7 @@
 - name: "Connect and Protect: Networks and Network Security"
   topic: Network Security
   provider: Google
+  provider-id: google
   hours: 11
   date: 2025-01-27
   certificate-id: W8HEHUWXRHGB
@@ -145,6 +161,7 @@
 - name: Creating & Remediating Compliance Issues
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours: 0.5
   date: 2025-02-05
   certificate-id: kgtqm3jzmqt2
@@ -154,6 +171,7 @@
 - name: Creating Compelling Reports
   topic: Communication
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours:
   date: 2025-08-17
   certificate-id: cisco-networking-academy_creating-compelling-reports
@@ -163,6 +181,7 @@
 - name: Creating With Git
   topic: Git
   provider: The Taggart Institute
+  provider-id: the-taggart-institute
   hours:
   date: 2025-03-10
   certificate-id: cert_0k75kx1b
@@ -172,6 +191,7 @@
 - name: CrossComply For Owners
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-02-05
   certificate-id: shikgpe9j4sg
@@ -181,6 +201,7 @@
 - name: Cybersecurity Essentials (LFC108)
   topic: Cybersecurity
   provider: The Linux Foundation
+  provider-id: the-linux-foundation
   hours: 1
   date: 2025-03-12
   certificate-id: LF-hu48wkisn3
@@ -190,6 +211,7 @@
 - name: Cybersecurity Fundamentals
   topic: Cybersecurity
   provider: IBM SkillsBuild
+  provider-id: ibm-skillsbuild
   hours: 6
   date: 2025-02-12
   certificate-id: 60855110-86b7-4e33-be12-41f77a845ea4
@@ -199,6 +221,7 @@
 - name: Developing Secure Software (LFD121)
   topic: Software Development
   provider: The Linux Foundation
+  provider-id: the-linux-foundation
   hours: 20
   date: 2025-02-15
   certificate-id: LF-kx9o4v68cw
@@ -208,6 +231,7 @@
 - name: Digital Awareness
   topic: Digital Literacy
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours: 6
   date: 2025-09-30
   certificate-id: cisco-networking-academy_digital-awareness
@@ -217,6 +241,7 @@
 - name: Digital forensics
   topic: Digital Forensics and Incident Response
   provider: OpenLearn
+  provider-id: openlearn
   hours: 8
   date: 2025-02-15
   certificate-id: openlearn_digital-forensics
@@ -226,6 +251,7 @@
 - name: Endpoint Security
   topic: Cybersecurity
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours: 27
   date: 2025-09-30
   certificate-id: cisco-networking-academy_endpoint-security
@@ -235,6 +261,7 @@
 - name: Engaging Stakeholders for Success
   topic: Stakeholder Management
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours: 3
   date: 2025-09-30
   certificate-id: cisco-networking-academy_engaging-stakeholders-for-success
@@ -244,6 +271,7 @@
 - name: English for IT 1
   topic: English
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours: 50
   date: 2025-09-30
   certificate-id: cisco-networking-academy_english-for-it-1
@@ -253,6 +281,7 @@
 - name: Foundations of Cybersecurity
   topic: Cybersecurity
   provider: Google
+  provider-id: google
   hours: 9
   date: 2025-01-27
   certificate-id: R2CPX82I8UY7
@@ -262,6 +291,7 @@
 - name: Foundations of Threat Hunting
   topic: Threat Hunting
   provider: Purple Academy
+  provider-id: purple-academy
   hours: 1
   date: 2022-08-30
   certificate-id: 630d89bd32b6f8574634648a
@@ -271,6 +301,7 @@
 - name: "Free Introduction: Basics of Disciplined Agile™ Online Course"
   topic: Agile
   provider: Project Management Institute
+  provider-id: project-management-institute
   hours: 1
   date: 2025-03-21
   certificate-id: project-management-institute_free-introduction-basics-of-disciplined-agile-online-course
@@ -280,6 +311,7 @@
 - name: Gathering Evidence to Assess Compliance
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours: 0.5
   date: 2025-02-04
   certificate-id: bn4zptgrzdbx
@@ -289,6 +321,7 @@
 - name: Generative AI for Business
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 1
   date: 2025-02-19
   certificate-id: 9f6159c05ab838df21a046bd3d4567fb827d2d93
@@ -298,6 +331,7 @@
 - name: Get Started with Implementation
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-01-29
   certificate-id: kyzydnmirrfv
@@ -307,6 +341,7 @@
 - name: Getting Started in API Pen-Testing (1 hour)
   topic: Penetration Testing
   provider: APIsec University
+  provider-id: apisec-university
   hours: 1
   date: 2025-01-15
   certificate-id: apisec-university_getting-started-in-api-pen-testing-1-hour
@@ -316,6 +351,7 @@
 - name: Google Cybersecurity
   topic: Cybersecurity
   provider: Google
+  provider-id: google
   hours:
   date: 2025-01-28
   certificate-id: 7XAQ37EEJQQZ
@@ -325,6 +361,7 @@
 - name: GRC Analyst Master Class
   topic: Governance, Risk, and Compliance
   provider: Simply Cyber
+  provider-id: simply-cyber
   hours: 7
   date: 2025-03-11
   certificate-id: cert_53bhffwn
@@ -334,6 +371,7 @@
 - name: Green Software for Practitioners (LFC131)
   topic: Software Development
   provider: The Linux Foundation
+  provider-id: the-linux-foundation
   hours: 2
   date: 2024-04-07
   certificate-id: LF-7g0tsqukyi
@@ -343,6 +381,7 @@
 - name: Information Security
   topic: Cybersecurity
   provider: OpenLearn
+  provider-id: openlearn
   hours: 10
   date: 2025-01-14
   certificate-id: openlearn_information-security
@@ -352,6 +391,7 @@
 - name: Information Security Awareness
   topic: Cybersecurity
   provider: Fortinet Training Institute
+  provider-id: fortinet-training-institute
   hours:
   date: 2022-10-07
   certificate-id: fortinet-training-institute_information-security-awareness
@@ -361,6 +401,7 @@
 - name: Intermediate ChatGPT
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 1
   date: 2025-02-19
   certificate-id: 5bc5536cbc6733e54eee2d46c669085e0b56bad2
@@ -370,6 +411,7 @@
 - name: Intro to Dashboards (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1
   date: 2021-11-11
   certificate-id: splunk_intro-to-dashboards-elearning
@@ -379,6 +421,7 @@
 - name: "Intro to DFIR: The Divide and Conquer Process (3 hours)"
   topic: Digital Forensics and Incident Response
   provider: Sleuth Kit Labs Training
+  provider-id: sleuth-kit-labs-training
   hours: 4
   date: 2025-01-15
   certificate-id: qz8kz3uft1
@@ -388,6 +431,7 @@
 - name: Intro to Knowledge Objects (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_intro-to-knowledge-objects-elearning
@@ -397,6 +441,7 @@
 - name: Intro to Linux from a Forensics Perspective - Ubuntu Version
   topic: Digital Forensics and Incident Response
   provider: Cyber 5W
+  provider-id: cyber-5w
   hours: 2
   date: 2025-01-14
   certificate-id: oit7xtnnb6
@@ -406,6 +451,7 @@
 - name: Intro to Regular Expressions
   topic: Regular Expressions
   provider: The Taggart Institute
+  provider-id: the-taggart-institute
   hours:
   date: 2025-03-10
   certificate-id: cert_skc60nlh
@@ -415,6 +461,7 @@
 - name: Intro to Splunk (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_intro-to-splunk-elearning
@@ -424,6 +471,7 @@
 - name: Intro to the Linux Command Line
   topic: Linux
   provider: The Taggart Institute
+  provider-id: the-taggart-institute
   hours:
   date: 2025-03-10
   certificate-id: cert_4l72dfv0
@@ -433,6 +481,7 @@
 - name: Introduction to ChatGPT
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 1
   date: 2025-02-18
   certificate-id: 9d2f7690d09e0a7906f956bf1c169d7198332ede
@@ -442,6 +491,7 @@
 - name: Introduction to CISSP
   topic: Cybersecurity
   provider: Simplilearn
+  provider-id: simplilearn
   hours: 2
   date: 2025-03-13
   certificate-id: 8035822
@@ -451,6 +501,7 @@
 - name: Introduction to Cyber Security Learning Path
   topic: Cybersecurity
   provider: TryHackMe
+  provider-id: tryhackme
   hours:
   date: 2022-08-15
   certificate-id: THM-W7E0COUCVX
@@ -460,6 +511,7 @@
 - name: Introduction to Cybercrime
   topic: Cybercrime
   provider: Simplilearn
+  provider-id: simplilearn
   hours: 2
   date: 2025-02-14
   certificate-id: 7904663
@@ -469,6 +521,7 @@
 - name: Introduction to Cybersecurity
   topic: Cybersecurity
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours: 6
   date: 2025-01-14
   certificate-id: cisco-networking-academy_introduction-to-cybersecurity
@@ -478,6 +531,7 @@
 - name: Introduction to Cybersecurity Awareness
   topic: Cybersecurity
   provider: HP LIFE
+  provider-id: hp-life
   hours:
   date: 2025-02-14
   certificate-id: d8352cc8-3e6f-4128-be32-0ce872883c6e
@@ -487,6 +541,7 @@
 - name: "Introduction to Machine Learning: Art of the Possible"
   topic: Machine Learning
   provider: Amazon Web Services
+  provider-id: amazon-web-services
   hours:
   date: 2025-02-15
   certificate-id: amazon-web-services_introduction-to-machine-learning-art-of-the-possible
@@ -496,6 +551,7 @@
 - name: Introduction to Open Source
   topic: Open Source
   provider: Cognitive Class
+  provider-id: cognitive-class
   hours: 4
   date: 2025-03-01
   certificate-id: 6def0576e5fc40298dcdfaed6fa23660
@@ -505,6 +561,7 @@
 - name: Introduction to OSINT
   topic: OSINT
   provider: My OSINT Training
+  provider-id: my-osint-training
   hours: 2
   date: 2025-02-12
   certificate-id: fgtwgjmfmh
@@ -514,6 +571,7 @@
 - name: Introduction to OSINT
   topic: OSINT
   provider: Security Blue Team
+  provider-id: security-blue-team
   hours:
   date: 2025-05-31
   certificate-id: 890553453
@@ -523,6 +581,7 @@
 - name: Introduction to Penetration Testing
   topic: Penetration Testing
   provider: Security Blue Team
+  provider-id: security-blue-team
   hours:
   date: 2025-05-31
   certificate-id: 162665582
@@ -532,6 +591,7 @@
 - name: Introduction to Physical Computing
   topic: Computing
   provider: Lancaster University
+  provider-id: lancaster-university
   hours: 4
   date: 2025-02-13
   certificate-id: 1hkmabh
@@ -541,6 +601,7 @@
 - name: Introduction to quantum computing
   topic: Computing
   provider: Université de Sherbrooke
+  provider-id: universite-de-sherbrooke
   hours: 3
   date: 2021-05-12
   certificate-id: universite-de-sherbrooke_introduction-to-quantum-computing
@@ -550,6 +611,7 @@
 - name: Introduction to SQL and Relational Databases
   topic: Database
   provider: Lighthouse Labs
+  provider-id: lighthouse-labs
   hours:
   date: 2025-02-17
   certificate-id: ollqjlj8y5
@@ -559,6 +621,7 @@
 - name: Learning Paths on AuditBoard Academy
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-02-05
   certificate-id: ce54di73i2ep
@@ -568,6 +631,7 @@
 - name: "Linux 100: Fundamentals"
   topic: Linux
   provider: TCM Security
+  provider-id: tcm-security
   hours: 2
   date: 2025-03-11
   certificate-id: cert_k9plbndl
@@ -577,6 +641,7 @@
 - name: Linux 101
   topic: Linux
   provider: TCM Security
+  provider-id: tcm-security
   hours: 5.5
   date: 2022-09-19
   certificate-id: cert_zvtzy4gw
@@ -586,6 +651,7 @@
 - name: Managing Controls in CrossComply
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours: 0.5
   date: 2025-02-05
   certificate-id: mzvmfvffbwda
@@ -595,6 +661,7 @@
 - name: Network security
   topic: Network Security
   provider: OpenLearn
+  provider-id: openlearn
   hours: 25
   date: 2025-02-12
   certificate-id: openlearn_network-security
@@ -604,6 +671,7 @@
 - name: New to Cyber Summit
   topic: Cybersecurity
   provider: The SANS Institute
+  provider-id: the-sans-institute
   hours: 5
   date: 2022-03-23
   certificate-id: the-sans-institute_new-to-cyber-summit
@@ -613,6 +681,7 @@
 - name: Official ISC2 Certified in Cybersecurity (CC) Self-Paced Training - 1M
   topic: Cybersecurity
   provider: ISC2
+  provider-id: isc2
   hours:
   date: 2022-12-16
   certificate-id: isc2_official-isc2-certified-in-cybersecurity-cc-self-paced-training-1m
@@ -622,6 +691,7 @@
 - name: Operating Systems Basics
   topic: Computing
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours: 12
   date: 2025-09-30
   certificate-id: cisco-networking-academy_operating-systems-basics
@@ -631,6 +701,7 @@
 - name: "Play It Safe: Manage Security Risks"
   topic: Governance, Risk, and Compliance
   provider: Google
+  provider-id: google
   hours: 9
   date: 2025-01-27
   certificate-id: CHGXQO28X24T
@@ -640,6 +711,7 @@
 - name: PMP Basics
   topic: Project Management
   provider: Simplilearn
+  provider-id: simplilearn
   hours: 9
   date: 2025-01-28
   certificate-id: 7828723
@@ -649,6 +721,7 @@
 - name: Pre Security Learning Path
   topic: Cybersecurity
   provider: TryHackMe
+  provider-id: tryhackme
   hours:
   date: 2022-09-23
   certificate-id: THM-NLCQRZOYL5
@@ -658,6 +731,7 @@
 - name: Preparing for CrossComply Design Discussions
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-02-10
   certificate-id: gyhyw5hqdw3z
@@ -667,6 +741,7 @@
 - name: Preparing for User Acceptance Testing & Launch
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-02-11
   certificate-id: x6jn3864otu8
@@ -676,6 +751,7 @@
 - name: Preparing Your CrossComply Data
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-02-05
   certificate-id: xgfb76posu2t
@@ -685,6 +761,7 @@
 - name: "Programming 100: Fundamentals"
   topic: Programming
   provider: TCM Security
+  provider-id: tcm-security
   hours: 3
   date: 2025-03-19
   certificate-id: cert_d059gl9z
@@ -694,6 +771,7 @@
 - name: "PRDV304: Introduction to Supply Chain Management"
   topic: Supply Chain Management
   provider: Saylor Academy
+  provider-id: saylor-academy
   hours: 3
   date: 2025-03-25
   certificate-id: 0165344137JD
@@ -703,6 +781,7 @@
 - name: "Put It to Work: Prepare for Cybersecurity Jobs"
   topic: Cybersecurity
   provider: Google
+  provider-id: google
   hours: 14
   date: 2025-01-27
   certificate-id: 536XE571CM6Y
@@ -712,6 +791,7 @@
 - name: Python
   topic: Python
   provider: Kaggle
+  provider-id: kaggle
   hours: 5
   date: 2022-09-12
   certificate-id: kaggle_python
@@ -721,6 +801,7 @@
 - name: Python for Defenders, Pt. 1
   topic: Python
   provider: The Taggart Institute
+  provider-id: the-taggart-institute
   hours:
   date: 2025-03-10
   certificate-id: cert_vwcrwfyy
@@ -730,6 +811,7 @@
 - name: RAG with MongoDB
   topic: Database
   provider: MongoDB University
+  provider-id: mongodb-university
   hours: 1
   date: 2025-03-31
   certificate-id: Ed1yLIzSTaWDJuycGXSZXA
@@ -739,6 +821,7 @@
 - name: Scheduling Reports & Alerts (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 3
   date: 2021-11-10
   certificate-id: splunk_scheduling-reports-alerts-elearning
@@ -748,6 +831,7 @@
 - name: Search Under the Hood (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_search-under-the-hood-elearning
@@ -757,6 +841,7 @@
 - name: "Sound the Alarm: Detection and Response"
   topic: Cybersecurity
   provider: Google
+  provider-id: google
   hours: 18
   date: 2025-01-27
   certificate-id: 3OWHC72IMR2E
@@ -766,6 +851,7 @@
 - name: Splunk User Behavior Analytics (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1.5
   date: 2021-11-25
   certificate-id: splunk_splunk-user-behavior-analytics-elearning
@@ -775,6 +861,7 @@
 - name: "Tools of the Trade: Linux and SQL"
   topic: Linux
   provider: Google
+  provider-id: google
   hours: 21
   date: 2025-01-27
   certificate-id: SHJM96CMVDHC
@@ -784,6 +871,7 @@
 - name: Understanding Artificial Intelligence
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 2
   date: 2025-02-19
   certificate-id: 37f401b0e8f9fc86dfbce876a1e0a24511834769
@@ -793,6 +881,7 @@
 - name: Understanding Prompt Engineering
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 1
   date: 2025-02-19
   certificate-id: 0d060fffbd3844c7437b7c619e2ba9755d2e78e9
@@ -802,6 +891,7 @@
 - name: Understanding the EU AI Act
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 1
   date: 2025-02-19
   certificate-id: 29a27d2a1fdef4b4ca61987fa5c2472ef943f6ff
@@ -811,6 +901,7 @@
 - name: Uploading your own CrossComply Data with Visual Import
   topic: AuditBoard
   provider: AuditBoard
+  provider-id: auditboard
   hours:
   date: 2025-02-11
   certificate-id: 5qsc7tqe6qr8
@@ -820,6 +911,7 @@
 - name: Using Computer and Mobile Devices
   topic: Digital Literacy
   provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
   hours: 6
   date: 2025-09-30
   certificate-id: cisco-networking-academy_using-computer-and-mobile-devices
@@ -829,6 +921,7 @@
 - name: Using Fields (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_using-fields-elearning
@@ -838,6 +931,7 @@
 - name: Vim For Everyone
   topic: Linux
   provider: The Taggart Institute
+  provider-id: the-taggart-institute
   hours:
   date: 2025-03-13
   certificate-id: cert_5l23lqw5
@@ -847,6 +941,7 @@
 - name: Visualizations (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_visualizations-elearning
@@ -856,6 +951,7 @@
 - name: What is Splunk? (eLearning)
   topic: Splunk
   provider: Splunk
+  provider-id: splunk
   hours: 1
   date: 2021-11-10
   certificate-id: splunk_what-is-splunk-elearning
@@ -865,6 +961,7 @@
 - name: Working with the OpenAI API
   topic: Artificial Intelligence
   provider: DataCamp
+  provider-id: datacamp
   hours: 3
   date: 2025-02-19
   certificate-id: df01d3d1fb277c9a13bfd7afc81e652c2c07b460
