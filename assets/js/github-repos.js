@@ -21,8 +21,16 @@ async function fetchRepos() {
     }
 
     allRepos.forEach((repo) => {
-      const repoItem = document.createElement("li");
-      repoItem.innerHTML = `<a href="${repo.html_url}" target="_blank">${repo.name}</a>`;
+      const repoItem = document.createElement("div");
+      repoItem.className = "col";
+      repoItem.innerHTML = `
+        <div class="card h-100" style="border-radius: 22px">
+          <div class="card-body">
+            <h5 class="card-title">${repo.name}</h5>
+            <a href="${repo.html_url}" target="_blank" class="btn btn-primary">View on GitHub</a>
+          </div>
+        </div>
+      `;
       reposList.appendChild(repoItem);
     });
   } catch (error) {
