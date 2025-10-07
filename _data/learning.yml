@@ -28,6 +28,36 @@
   certificate-extension: pdf
   certificate-verification-url: https://www.datacamp.com/completed/statement-of-accomplishment/course/
 
+- name: AI Fluency for educators
+  topic: Artificial Intelligence
+  provider: Anthropic Education
+  provider-id: anthropic-education
+  hours:
+  date: 2025-10-05
+  certificate-id: dnwt277z9imf
+  certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
+
+- name: AI Fluency for students
+  topic: Artificial Intelligence
+  provider: Anthropic Education
+  provider-id: anthropic-education
+  hours:
+  date: 2025-10-05
+  certificate-id: 2uhyqi58ttkv
+  certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
+
+- name: "AI Fluency: Framework & Foundations"
+  topic: Artificial Intelligence
+  provider: Anthropic Education
+  provider-id: anthropic-education
+  hours:
+  date: 2025-10-05
+  certificate-id: 9yf6na2c4ena
+  certificate-extension: pdf
+  certificate-verification-url: https://verify.skilljar.com/c/
+
 - name: AI Fundamentals with IBM SkillsBuild
   topic: Artificial Intelligence
   provider: IBM SkillsBuild
@@ -37,6 +67,36 @@
   certificate-id: ibm-skillsbuild_ai-fundamentals-with-ibm-skillsbuild
   certificate-extension: pdf
   certificate-verification-url:
+
+- name: AI Security & Governance
+  topic: Artificial Intelligence
+  provider: Securiti
+  provider-id: securiti
+  hours: 1.5
+  date: 2025-10-06
+  certificate-id: 1395F508E-1395F2BD5-1333B32DC
+  certificate-extension: pdf
+  certificate-verification-url: https://education.securiti.ai/verification/
+
+- name: AI Workplace Proficiency Certification
+  topic: Artificial Intelligence
+  provider: Superhuman AI Certification
+  provider-id: superhuman-ai-certification
+  hours:
+  date: 2025-10-06
+  certificate-id: 9npionw7nd
+  certificate-extension: pdf
+  certificate-verification-url: https://education.superhuman.ai/certificates/
+
+- name: An Introduction to Electronic Engineering
+  topic: Electronics
+  provider: UK Electronic Skills Foundation
+  provider-id: uk-electronic-skills-foundation
+  hours: 9
+  date: 2025-10-06
+  certificate-id: jw02h9f
+  certificate-extension: pdf
+  certificate-verification-url: https://futurelearn.com/certificates/
 
 - name: API Security for PCI Compliance
   topic: API
@@ -198,6 +258,16 @@
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
 
+- name: Cyber Career Launch Pad
+  topic: Cybersecurity
+  provider: Simply Cyber
+  provider-id: simply-cyber
+  hours: 9
+  date: 2025-06-11
+  certificate-id: cert_h3n88qxt
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Cybersecurity Essentials (LFC108)
   topic: Cybersecurity
   provider: The Linux Foundation
@@ -275,6 +345,16 @@
   hours: 50
   date: 2025-09-30
   certificate-id: cisco-networking-academy_english-for-it-1
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: English for IT 2
+  topic: English
+  provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
+  hours: 50
+  date: 2025-10-05
+  certificate-id: cisco-networking-academy_english-for-it-2
   certificate-extension: pdf
   certificate-verification-url:
 
@@ -395,6 +475,16 @@
   hours:
   date: 2022-10-07
   certificate-id: fortinet-training-institute_information-security-awareness
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: INSIDE LVMH
+  topic: Business
+  provider: LVMH
+  provider-id: lvmh
+  hours: 30
+  date: 2025-07-01
+  certificate-id: f1814dae-0629-4b3b-89ca-a67aef47b922
   certificate-extension: pdf
   certificate-verification-url:
 
@@ -658,6 +748,16 @@
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
 
+- name: Network Defense
+  topic: Network Security
+  provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
+  hours: 27
+  date: 2025-10-04
+  certificate-id: cisco-networking-academy_network-defense
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Network security
   topic: Network Security
   provider: OpenLearn
@@ -665,6 +765,26 @@
   hours: 25
   date: 2025-02-12
   certificate-id: openlearn_network-security
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: Network Support and Security
+  topic: Network Security
+  provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
+  hours: 12
+  date: 2025-10-01
+  certificate-id: cisco-networking-academy_network-support-and-security
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: Networking Basics
+  topic: Computing
+  provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
+  hours: 22
+  date: 2025-10-06
+  certificate-id: cisco-networking-academy_networking-basics
   certificate-extension: pdf
   certificate-verification-url:
 
@@ -796,6 +916,16 @@
   date: 2022-09-12
   certificate-id: kaggle_python
   certificate-extension: png
+  certificate-verification-url:
+
+- name: Python Essentials 1
+  topic: Python
+  provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
+  hours: 30
+  date: 2025-10-07
+  certificate-id: cisco-networking-academy_python-essentials-1
+  certificate-extension: pdf
   certificate-verification-url:
 
 - name: Python for Defenders, Pt. 1
