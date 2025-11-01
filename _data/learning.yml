@@ -268,6 +268,16 @@
   certificate-extension: pdf
   certificate-verification-url:
 
+- name: Cyber Threat Management
+  topic: Cybersecurity
+  provider: Cisco Networking Academy
+  provider-id: cisco-networking-academy
+  hours: 16
+  date: 2025-10-24
+  certificate-id: cisco-networking-academy_cyber-threat-management
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Cybersecurity Essentials (LFC108)
   topic: Cybersecurity
   provider: The Linux Foundation
@@ -747,6 +757,16 @@
   certificate-id: mzvmfvffbwda
   certificate-extension: pdf
   certificate-verification-url: https://verify.skilljar.com/c/
+
+- name: Master of Business Administration
+  topic: Business
+  provider: Academy Europe
+  provider-id: academy-europe
+  hours:
+  date: 2025-10-07
+  certificate-id: academy-europe_master-of-business-administration
+  certificate-extension: pdf
+  certificate-verification-url:
 
 - name: Network Defense
   topic: Network Security
