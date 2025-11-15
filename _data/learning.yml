@@ -1,3 +1,23 @@
+- name: A Beginner's Guide to Linux Kernel Development (LFD103)
+  topic: Linux
+  provider: The Linux Foundation
+  provider-id: the-linux-foundation
+  hours:
+  date: 2025-11-10
+  certificate-id: LF-cr6hp0fld9
+  certificate-extension: pdf
+  certificate-verification-url:
+
+- name: A Beginner's Guide to Open Source Software Development (LFD102)
+  topic: Open Source
+  provider: The Linux Foundation
+  provider-id: the-linux-foundation
+  hours:
+  date: 2025-11-10
+  certificate-id: LF-0ouc4nljmo
+  certificate-extension: pdf
+  certificate-verification-url:
+
 - name: Administering CrossComply Configurations
   topic: AuditBoard
   provider: AuditBoard
@@ -17,6 +37,16 @@
   certificate-id: E4BlCYdwSUCT_bqL3MqSCA
   certificate-extension: pdf
   certificate-verification-url: https://learn.mongodb.com/c/
+
+- name: AI and Digital Transformation in Government
+  topic: Artificial Intelligence
+  provider: University of Oxford - Saïd Business School
+  provider-id: university-of-oxford-said-business-school
+  hours:
+  date: 2025-11-15
+  certificate-id: 621b121b-aa65-4667-b085-859bb7e4b5f5
+  certificate-extension: pdf
+  certificate-verification-url: https://certify.sbs.ox.ac.uk/
 
 - name: AI Ethics
   topic: Artificial Intelligence
