@@ -153,6 +153,13 @@
       color: "#2DE5D9"
       font-color: "#FFFFFF"
 
+    - name: Roadmap
+      username: jeandecian
+      url: https://roadmap.sh/u/
+      icon: fas fa-code
+      color: "#EFEFEF"
+      font-color: "#000000"
+
     - name: TryHackMe
       username: jeandecian
       url: https://tryhackme.com/p/
