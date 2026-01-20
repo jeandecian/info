@@ -2,7 +2,7 @@
 layout: publication
 title: Social Network Cyberattacks and Security Issues
 permalink: /publications/2021-02-11-social-network-cyberattacks-security-issues
-selected: selected
+selected:
 authors: Fehmi Jaafar and Jean Decian
 date: 2021-02-11
 type: Book Chapter
