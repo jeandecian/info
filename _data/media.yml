@@ -18,3 +18,17 @@
   language: FR
   url: https://www.tahiti-infos.com/APF-122-bacheliers-ayant-recu-la-mention-tres-bien-medailles_a150482.html
   context: "Mentioned in Excel"
+
+- title: Récipiendaires du concours d’affiches scientifiques
+  source: UQAC
+  date: 2026-02-09
+  language: FR
+  url: https://www.uqac.ca/jrc/recipiendaires-2026/
+  context: Mentioned
+
+- title: "Les cyberattaques : la pollution invisible du numérique"
+  source: UQACtualités
+  date: 2026-02-13
+  language: FR
+  url: https://www.uqac.ca/uqactualites/2026/02/13/les-cyberattaques-la-pollution-invisible-du-numerique/
+  context: Mentioned
